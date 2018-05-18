@@ -2,8 +2,19 @@
 
 | 返回资源字段名称 |描述| 服务提供方 | 关联NER |
 |:---:|:---:|:---:|:---:|
-| film_list| 电影资源列表| 豆瓣| FILM|
-| cinemaInfo_list| 电影资源列表| 猫眼| FILM|
+| film_list| 电影资源列表| 豆瓣| ENT.FILM|
+| custom_player_list| 球员资源列表| 百科| SPORTS.PLAYER|
+| custom_team_list| 球队资源列表| 百科| SPORTS.TEAM|
+| custom_player_list| 球员资源列表| 百科| SPORTS.PLAYER|
+| custom_player_list| 球员资源列表| 百科| SPORTS.PLAYER|
+| custom_player_list| 球员资源列表| 百科| SPORTS.PLAYER|
+| custom_player_list| 球员资源列表| 百科| SPORTS.PLAYER|
+
+
+
+
+
+| cinemaInfo_list| 球队资源列表| 百科| SPORTS.TEAM|
 | book_list| 图书资源列表| 豆瓣| BOOK|
 | cater_list| 餐厅资源列表| 美团| CATER|
 | waimai_list| 外卖资源列表| 美团| CATER|
