@@ -31,7 +31,7 @@
 |comments.uid|用户id|string|2139340|
 |comments.uname|用户名称|string|川貝|
 |comments.uurl|用户连接|string|https://api.douban.com/v2/user/2139340|
-|url|豆瓣id|string|1034282|
+|url|图书链接|string|https://book.douban.com/subject/1034282/|
 |intent|跳转链接|string|douban://douban.com/book/1034282?from=mdouba|
 |source|来源标识|string|DoubanBook|
 
