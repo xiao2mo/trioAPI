@@ -17,7 +17,6 @@
         * [地图资源卡片](chapter1/resource/poi.md)
         * [人物百科卡片](chapter1/resource/person_baike.md)
         * [通用百科卡片](chapter1/resource/general_baike.md)
-        * [股票信息卡片](chapter1/resource/stock.md)
         * [音乐资源卡片](chapter1/resource/music.md)
         * [商品信息卡片](chapter1/resource/prod.md)
     * [智慧识屏UI规范](chapter1/card_ui/README.md)
