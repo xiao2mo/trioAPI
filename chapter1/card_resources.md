@@ -32,3 +32,7 @@
 | stock_list| 股票资源列表| 新浪| STOCK|
 | wangyi_music_list| 音乐资源列表| 网易（未启用）| MUSIC|
 | jd_ware_list| 京东金融资源列表| 京东| PROD|
+
+| calendar_list| 行程资源列表| ---| TIME|
+| kuaidi_list| 快递资源列表| 百科| PERSON|
+| baidu_poi_list| GPS资源列表| 百度| LOC|
