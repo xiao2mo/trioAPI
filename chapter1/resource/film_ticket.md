@@ -10,7 +10,7 @@
 |id|  猫眼id| string |  71946|
 |name| 名称 | string | 无问西东 |
 |point| 猫眼评分 |  string| 8.6 |
-|showst| string |  | 1 |
+|showst| |  | 1 |
 |type| 类型|string | 爱情、战争|
 |ticketUrl|购票链接 |string | http://m.maoyan.com/cinema/movie/71946|
 |trailerUrl| |string |http://maoyan.meituan.net/movie/videos/854x480a5a5aa819b504a80a9c84d2b03814feb.mp4 |
