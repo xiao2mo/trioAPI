@@ -26,3 +26,5 @@
 | calendar_list| 行程资源列表| ---| TIME|
 | kuaidi_list| 快递资源列表| 快递100| NUM.EXPRESS_CODE|
 | baidu_poi_list| GPS资源列表| 百度| LOC|
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本小节所包含的具体卡片，将详细介绍线上卡片资源请求的返回格式，以及在手机端的实际运行效果。
