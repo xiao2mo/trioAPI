@@ -4,20 +4,17 @@
 #### 测试demo
 #### 返回字段说明
 
->卡片字段名称：train_list
+>卡片字段名称：flight_list
 
 |名称|说明|类型|示例|
 |:---:|:---:|:----:|:---:|
-|from|起始地|string|青岛|
-|destination|目的地|string|兰州|
-|start_time|起始时间|string|15:37|
-|end_time|到站时间|string|15:48|
-|mile_age|总里程|string||
-|id|火车编号|string|K1026|
-|stationInfo|起始地|string|青岛|
-|url|航班|string|青岛|
-|intent|起始地|string|青岛|
-|source|起始地|string|青岛|
+|id|航班id|string|KN5987|
+|depCity|起始城市|string|北京|
+|arrCity|目标城市|string|上海|
+|url|航班链接|string|http://m.veryzhun.com/flight/details.html?fnum=KN5987&n_calendar=2018-05-18&token=edea7b58ec74c0202774394e0e884383|
+
+
+
 
 
 
