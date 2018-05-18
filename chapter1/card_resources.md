@@ -5,10 +5,7 @@
 | film_list| 电影资源列表| 豆瓣| ENT.FILM|
 | custom_player_list| 球员资源列表| 百科| SPORTS.PLAYER|
 | custom_team_list| 球队资源列表| 百科| SPORTS.TEAM|
-| travel_poi_list| 球员资源列表| 百科| SPORTS.PLAYER|
-| custom_player_list| 球员资源列表| 百科| SPORTS.PLAYER|
-| custom_player_list| 球员资源列表| 百科| SPORTS.PLAYER|
-| custom_player_list| 球员资源列表| 百科| SPORTS.PLAYER|
+| travel_poi_list| 景点资源列表| 百科| LOC.SCENE|
 | cinemaInfo_list| 球队资源列表| 百科| SPORTS.TEAM|
 | book_list| 图书资源列表| 豆瓣| LIT.BOOK|
 | cater_list| 餐厅资源列表| 美团| LOC.CATER|
