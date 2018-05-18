@@ -12,7 +12,9 @@
 |point|豆瓣评分|string|8.8|
 |tag|图书标签|string|科普,史蒂芬·霍金,时间简史|
 |author|作者名称|string|[英] 史蒂芬·霍|
-|authorList|豆瓣id|string|1034282|
+|authorList|作者信息|string[]||
+|authorList.name|作者名称|string|[英] 史蒂芬·霍|
+|authorList.url|百科链接|string|http://www.baike.com/wiki/%E5%8F%B2%E8%92%82%E8%8A%AC%C2%B7%E9%9C%8D%E9%87%91|
 |image|豆瓣id|string|1034282|
 |binding|豆瓣id|string|1034282|
 |pages|豆瓣id|string|1034282|
