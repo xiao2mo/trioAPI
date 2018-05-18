@@ -23,7 +23,7 @@
 | feiyou_flight_list| 航班资源列表| 飞友| FLIGHT|
 | train_list| 火车资源列表| 弃用| TRAIN|
 | address_list| 地图资源列表| 百度、高德| ADDR、ADMIN|
-| person_list| 人名资源列表| 百科| PERSON|
+| person_list| 人名资源列表| 百科| PERSON.PERSON_NAME|
 | meituan_list| 外卖资源列表| 美团| LOC.CATER|
 | plant_list| 植物资源列表| 百科| ENTIRY.PLANT|
 | animal_list| 动物资源列表| 百科| ENTITY.ANIMAL|
