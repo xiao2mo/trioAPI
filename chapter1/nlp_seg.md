@@ -1,4 +1,8 @@
 >#中文切词定制化
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;现今我们支持各个通用领域的切词定制化服务，不限于金融、政法、娱乐、聊天等常见文本语料。我们采用深度学习的模型算法辅以小批量的辅助性词表。
+
+####1.切词细分类别
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;现支持以下各类小范围词汇的精确切分。
+####2.切词定制化服务
