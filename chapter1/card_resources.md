@@ -7,7 +7,7 @@
 | film_list| 电影资源列表| 豆瓣| ENT.FILM|
 | custom_player_list| 球员资源列表| 百科| SPORTS.PLAYER|
 | custom_team_list| 球队资源列表| 百科| SPORTS.TEAM|
-| travel_poi_list| 景点资源列表| 百科| LOC.SCENE|
+| travel_poi_list| 景点资源列表| 马蜂窝| LOC.SCENE|
 | cinemaInfo_list| 球队资源列表| 百科| SPORTS.TEAM|
 | book_list| 图书资源列表| 豆瓣| LIT.BOOK|
 | cater_list| 餐厅资源列表| 美团| LOC.CATER|
@@ -22,8 +22,8 @@
 | animal_list| 动物资源列表| 百科| ENTITY.ANIMAL|
 | stock_list| 股票资源列表| 新浪| STOCK.STOCK_NAME、STOCK.STOCK_CODE|
 | wangyi_music_list| 音乐资源列表| 网易（未启用）| ENT.MUSIC|
-| jd_ware_list| 京东金融资源列表| 京东| ---|
-| calendar_list| 行程资源列表| ---| TIME|
+| jd_ware_list| 商品资源列表| 京东| ---|
+| calendar_list| 日程资源列表| ---| TIME|
 | kuaidi_list| 快递资源列表| 快递100| NUM.EXPRESS_CODE|
 | baidu_poi_list| GPS资源列表| 百度| LOC|
 
