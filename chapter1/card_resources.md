@@ -1,4 +1,5 @@
-#<center>资源对接情况<center/>
+chapter1/card_resources.md
+<center>智慧视屏卡片列表<center/>
 | 返回资源字段名称 |描述| 服务提供方 | 关联NER |
 |:---:|:---:|:---:|:---:|
 | film_list| 电影资源列表| 豆瓣| FILM|
