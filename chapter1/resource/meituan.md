@@ -25,7 +25,7 @@
 |thumbNail|地理缩略图|string|http://api.map.baidu.com/staticimage/v2?ak=ERcMaGj5nOE3EdvHYEEIKBeavMDpEkex&mcode=666666&width=480&height=360&zoom=18&center=113.948006,22.529343&markers=113.948006,22.529343|
 |wifi|是否支持wifi|string|0|
 |waimai|是否提供外卖|string|1|
-|subSource|所属来源|string|meituan|
+|subSource|兜底资源|string|meituan|
 |url|美团链接|string|https://kuai.baidu.com/webapp/train/stationlist.html?trainno=K1026|
 |intent|跳转链接|string||
 |source|来源标识|string|BaiduTrain|
