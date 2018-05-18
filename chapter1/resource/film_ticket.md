@@ -7,14 +7,14 @@
 
 |名称|说明|类型|示例|
 |:---:|:---:|:----:|:---:|
-|id|  猫眼id|  |  |
-|name| 名称 |  |  |
-|point| 猫眼评分 |  |  |
-|showst|  |  |  |
-|type| 类型| | |
-|ticketUrl|购票链接 | | |
-|trailerUrl| | | |
-|url| | | |
-|intent|跳转链接 | | |
-|source| | | |
+|id|  猫眼id| string |  71946|
+|name| 名称 | string | 无问西东 |
+|point| 猫眼评分 |  string| 8.6 |
+|showst| string |  | 1 |
+|type| 类型|string | 爱情、战争|
+|ticketUrl|购票链接 |string | http://m.maoyan.com/cinema/movie/71946|
+|trailerUrl| |string |http://maoyan.meituan.net/movie/videos/854x480a5a5aa819b504a80a9c84d2b03814feb.mp4 |
+|url| |string |http://triotest.sanjiaoshou.net/nlp/q?key:cSaC92_tiJogvNNk1KZEiP-CTDRby8db_B9r8gMTzJeESgYhzo9vTJwZJuAw0ojTosWxHNdAbp3ZtukuXdalZJRrpMiuTCZU1TbD3vPKgv7rfYSI08EsonoAnL423ssV95RENfJRSuM4d6aBjaUSsfiRVee3smS0Li3KbxlGtZEPeTogrQAdtOng9AZOYNLKDN8-p-0JIkXJgrYzKh0H50rUAv0Sm_Te|
+|intent|跳转链接 |string | |
+|source| 来源标识| string| MaoyanFilm|
 
