@@ -19,9 +19,7 @@
 
 ####2.样例展示
 
-<img width="150" height="150" src="/assets/4.png"/ align="center">
-
-
+<img width="150" height="150" src="/assets/4.png" align="center">
 
 
 
