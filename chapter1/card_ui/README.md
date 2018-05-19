@@ -20,7 +20,7 @@
 ####2.样例展示
 
 <div class="image-wrapper">
-<img width="150" height="150" src="/assets/4.png"/>
+<img width="150" height="150" src="/assets/4.png"/ align="center">
 </div> 
 
 
