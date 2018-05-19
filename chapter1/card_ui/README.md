@@ -19,7 +19,9 @@
 
 ####2.样例展示
 
-<div align="center"><img src="/assets/4.png" align="center"></div>
+<div align="center">
+<img src="/assets/4.png" align="center" alt="电影资源卡片实例">
+</div>
 
 
 
