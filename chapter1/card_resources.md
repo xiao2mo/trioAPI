@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下表展示了现阶段支持的资源服务，每类服务会对应相应的卡片，可根据厂商的需求进行定制。
 
 | 返回资源字段名称 |描述| 服务提供方 | 关联NER |
-|:---:|:---:|:---:|:---:|
+|:---|:---|:---|:---|
 | film_list| 电影资源列表| 豆瓣| ENT.FILM|
 | custom_player_list| 球员资源列表| 百科| SPORTS.PLAYER|
 | custom_team_list| 球队资源列表| 百科| SPORTS.TEAM|

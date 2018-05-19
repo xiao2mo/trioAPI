@@ -8,7 +8,7 @@
 
 
 |名称|说明|类型|示例|
-|:---:|:---:|:----:|:---:|
+|:---|:---|:---|:---|
 |id|歌曲id|string|01ce186799a7ee26a12aba4e3bb5d600|
 |album|歌曲专辑|string|欧若拉 Aurora|
 |released_time|发行时间|string|2012-01-01|

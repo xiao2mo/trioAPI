@@ -7,7 +7,7 @@
 >卡片字段名称：baidu_poi_list
 
 |名称|说明|类型|示例|
-|:---:|:---:|:----:|:---:|
+|:---|:---|:---|:---|
 |id|地址id|string|3dee767333bdcf173586f447|
 |gpsType|GPS类型|string|GCJ02|
 |name|POI名称|string|五道口保理学院|
