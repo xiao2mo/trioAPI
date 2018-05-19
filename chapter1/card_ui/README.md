@@ -18,7 +18,6 @@
 |距离|卡片间留白|8dp|
 
 ####2.样例展示
-<p align="center">这是什么</p>
 
 <div align="center"><img src="/assets/4.png" align="center"></div>
 
