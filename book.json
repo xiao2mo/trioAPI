@@ -1,5 +1,30 @@
 {
-    "plugins": [
+    "plugins" : [
+        "disqus",
+        "sitemap",
+        "baidu",
+        "editlink",
+        "github",
+        "demo",
+        "fbqx",
         "image-wrapper"
-    ]
+    ],
+    "pluginsConfig" : {
+        "disqus": {
+            "shortName" : "trio_phone_api"
+        },
+        "baidu": {
+            "token": "336e5e4323aca198f001a6707e927ac4"
+        },
+        "sitemap": {
+            "hostname": "http://trio.ai"
+        },
+        "editlink": {
+            "base": "http://10.0.0.12/trio/phone-intent/tree/master/doc",
+            "label": "编辑本页"
+        },
+        "github": {
+            "url": "http://10.0.0.12/trio/phone-intent"
+        }
+    }
 }
