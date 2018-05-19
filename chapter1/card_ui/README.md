@@ -1,6 +1,7 @@
 ># 智慧识屏UI规范
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;智慧识屏卡片示例
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以下为智慧识屏卡片的示例及参数设定。
+
 ####1.参数设定
 |类型|属性|示例及规范数值|
 |:---:|:---:|:---:|
@@ -16,6 +17,11 @@
 |距离|屏幕边界与卡片留白|8dp|
 |距离|卡片间留白|8dp|
 
+####2.样例展示
+
+<div align=center>
+![](/assets/4.png)
+</div>
 
 
 
