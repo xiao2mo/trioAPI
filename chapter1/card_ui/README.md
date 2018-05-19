@@ -19,7 +19,9 @@
 
 ####2.样例展示
 
-<div align=center><img width="150" height="150" src="/assets/4.png"/></div> 
+<div class="iamge-wrapper">
+<img width="150" height="150" src="/assets/4.png"/>
+</div> 
 
 
 
