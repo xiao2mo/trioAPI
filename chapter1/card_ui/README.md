@@ -20,7 +20,7 @@
 ####2.样例展示
 
 <div align=center>
-<img src="/assets/4.png" height="100" weight="100">
+<img src="/assets/4.png" height="200" weight="50">
 </div>
 
 
