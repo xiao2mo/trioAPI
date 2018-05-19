@@ -19,7 +19,7 @@
 
 ####2.样例展示
 
-<div class="iamge-wrapper">
+<div class="image-wrapper">
 <img width="150" height="150" src="/assets/4.png"/>
 </div> 
 
