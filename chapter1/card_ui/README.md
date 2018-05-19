@@ -19,7 +19,7 @@
 
 ####2.样例展示
 
-<img src="/assets/4.png" align="center">
+<div align="center"><img src="/assets/4.png" align="center"></div>
 
 
 
