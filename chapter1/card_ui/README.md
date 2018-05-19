@@ -20,7 +20,7 @@
 ####2.样例展示
 
 <div align=center>
-![](/assets/4.png)
+<img src="/assets/4.png">
 </div>
 
 
