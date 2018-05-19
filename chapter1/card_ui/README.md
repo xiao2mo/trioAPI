@@ -18,6 +18,13 @@
 |距离|卡片间留白|8dp|
 
 ####2.样例展示
+>卡片识别效果展示
+
+<div align="center">
+<img src="/assets/5.png" align="center" alt="电影资源卡片实例">
+</div>
+
+>UI规范展示
 
 <div align="center">
 <img src="/assets/4.png" align="center" alt="电影资源卡片实例">
