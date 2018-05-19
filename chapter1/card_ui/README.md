@@ -19,7 +19,7 @@
 
 ####2.样例展示
 
-<div class="image-wrapper">
+<div>
 <img width="150" height="150" src="/assets/4.png"/ align="center">
 </div> 
 
