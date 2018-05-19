@@ -4,7 +4,7 @@
     目前提供的服务包括：基础nlp识别服务，以及基于意图的资源卡片服务。
 ## 服务类型
 |接口名称|接口功能|请求示例|
-|:---:|:---:|:---:|
+|:---|:---|:---|
 |nlp+资源卡片二合一|输入query，实现基础nlp服务以及基于意图的资源卡片服务|http://phoneapi.sanjiaoshou.net/nlp|
 |nlp服务|基础nlp的分词和实体识别服务|http://phoneapi.sanjiaoshou.net/nlp/segmentation|
 |资源卡片服务|根据命名实体和意图获取资源卡片|http://phoneapi.sanjiaoshou.net/nlp/resource|
