@@ -23,7 +23,6 @@
 * [智慧识屏WEB-API](chapter2/README.md)
     * [在线语义解析方案](chapter2/web_api.md)
     * [基础协议](chapter2/proto.md)
-    * [识别+获取资源](chapter2/nlp.md)
     * [在线识别](chapter2/nlp_segmentation.md)
     * [在线获取资源](chapter2/nlp_resource.md)
 * [智慧识屏android sdk](chapter3/README.md)
