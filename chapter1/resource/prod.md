@@ -16,3 +16,4 @@
 |shopId|商品店铺id|string|1000000127|
 |url|商品H5跳转链接|string|https://item.jd.com/5089253.html|
 |intent|商品app跳转链接|string|| 
+** ~~删除线部分为暂时缺失的字段~~ **
