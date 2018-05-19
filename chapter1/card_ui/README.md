@@ -19,9 +19,8 @@
 
 ####2.样例展示
 
-<div align=center>
-<img src="/assets/4.png" height="200" weight="50">
-</div>
+<div align=center><img width="150" height="150" src="/assets/4.png"/></div> 
+
 
 
 
