@@ -1,12 +1,24 @@
 {
     "plugins" : [
         "disqus",
+        "expandable-chapters-small",
         "sitemap",
         "baidu",
         "editlink",
         "github",
         "demo",
         "fbqx",
+        "mermaid",
+        "mermaid-gb3",
+        "graph",
+        "chart",
+        "local-video",
+        "alerts",
+        "copy-code-button",
+        "advanced-emoji",
+        "splitter",
+        "include-csv",
+        "anchors",
         "image-wrapper"
     ],
     "pluginsConfig" : {
@@ -22,6 +34,9 @@
         "editlink": {
             "base": "http://10.0.0.12/trio/phone-intent/tree/master/doc",
             "label": "编辑本页"
+        },
+        "chart": {
+            "type": "c3"
         },
         "github": {
             "url": "http://10.0.0.12/trio/phone-intent"
