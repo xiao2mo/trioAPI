@@ -9,7 +9,8 @@
 |名称|说明|类型|示例|
 |:---|:---|:---|:---|
 |id|商品id|string|5089253|
-|source|商品来源，目前支持京东(source=JD)|string|JD||name|商品名称|string|Apple iPhone X (A1865) 64GB 深空灰色 移动联通电信4G手机|
+|source|商品来源，目前支持京东(source=JD)|string|JD|
+|name|商品名称|string|Apple iPhone X (A1865) 64GB 深空灰色 移动联通电信4G手机|
 |imageUrl|商品缩略图|string|https://img30.360buyimg.com/jgsq-productsoa/jfs/t10675/253/1344769770/66891/92d54ca4/59df2e7fN86c99a27.jpg|
 |point|商品评分|string|99|
 |~~price~~|~~商品价格~~|string|7299.00|
