@@ -7,7 +7,6 @@
         "editlink",
         "github",
         "demo",
-        "fbqx",
         "mermaid",
         "mermaid-gb3",
         "graph",
@@ -19,9 +18,14 @@
         "splitter",
         "include-csv",
         "anchors",
+        "include-csv",
+        "trio",
         "image-wrapper"
     ],
     "pluginsConfig" : {
+        "trio": {
+            "deps" : ["http"]
+        },
         "disqus": {
             "shortName" : "trio_phone_api"
         },

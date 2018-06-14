@@ -3,7 +3,8 @@
 #### ui展示效果
 #### 测试demo
 {%fbq%}
-term:  $$图书名##
+term:##图书名称##
+ner:##BOOK##
 {%endfbq%}
 #### 返回字段说明
 >卡片字段名称：book_list
