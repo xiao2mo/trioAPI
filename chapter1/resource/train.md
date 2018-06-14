@@ -2,6 +2,11 @@
 
 #### ui展示效果
 #### 测试demo
+{%fbq%}
+term:##火车名称##
+ner:##TRAIN_NUM##
+{%endfbq%}
+
 #### 返回字段说明
 
 >卡片字段名称：train_list

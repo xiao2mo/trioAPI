@@ -2,6 +2,11 @@
 
 #### ui展示效果
 #### 测试demo
+{%fbq%}
+term:##航班名称##
+ner:##FLIGHT_NUM##
+{%endfbq%}
+
 #### 返回字段说明
 
 >卡片字段名称：flight_list

@@ -2,6 +2,11 @@
 
 #### ui展示效果
 #### 测试demo
+{%fbq%}
+term:##餐馆名称##
+ner:##CATER##
+{%endfbq%}
+
 #### 返回字段说明
 
 >卡片字段名称：meituan_list
