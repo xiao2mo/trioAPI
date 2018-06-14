@@ -2,6 +2,11 @@
 
 #### ui展示效果
 #### 测试demo
+{%fbq%}
+term:##商品名称##
+ner:##PROD##
+{%endfbq%}
+
 #### 返回字段说明
 
 >卡片字段名称：jd_ware_list
