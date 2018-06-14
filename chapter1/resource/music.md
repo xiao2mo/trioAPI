@@ -2,6 +2,11 @@
 
 #### ui展示效果
 #### 测试demo
+{%fbq%}
+term:##音乐名称##
+ner:##MUSIC##
+{%endfbq%}
+
 #### 返回字段说明
 
 >卡片字段名称：wangyi_music_list

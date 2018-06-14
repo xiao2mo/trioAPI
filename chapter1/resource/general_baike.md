@@ -2,6 +2,11 @@
 
 #### ui展示效果
 #### 测试demo
+{%fbq%}
+term:##通用百科卡片##
+ner:##PLANT##
+{%endfbq%}
+
 #### 返回字段说明
 
 >卡片字段名称：plant_list&nbsp;&nbsp;&nbsp;animal_list 等

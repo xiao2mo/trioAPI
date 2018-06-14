@@ -2,6 +2,11 @@
 
 #### ui展示效果
 #### 测试demo
+{%fbq%}
+term:##人物名称##
+ner:##PERSON_NAME##
+{%endfbq%}
+
 #### 返回字段说明
 >卡片字段名称：person_list
 
