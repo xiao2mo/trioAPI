@@ -2,6 +2,11 @@
 
 #### ui展示效果
 #### 测试demo
+{%fbq%}
+term:##淘口令##
+ner:##TAOBAO_PROD_ID##
+{%endfbq%}
+
 #### 返回字段说明
 
 >卡片字段名称：taokouling_list
