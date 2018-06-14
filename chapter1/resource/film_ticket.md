@@ -2,6 +2,11 @@
 
 #### ui展示效果
 #### 测试demo
+{%fbq%}
+term:##影视名称##
+ner:##FILM##
+{%endfbq%}
+
 #### 返回字段说明
 >卡片字段名称：cinemaInfo_list
 
