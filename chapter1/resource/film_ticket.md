@@ -35,7 +35,7 @@ ner:##FILM##
 |type| 类型|string | 剧情、喜剧|
 |ticketUrl|购票链接 |string | http://m.maoyan.com/cinema/movie/1200486|
 |trailerUrl|预览链接 |string |http://maoyan.meituan.net/movie/videos/854x4804c109134879943f4b24387adc040504b.mp4 |
-|url| 电影链接|string |http://maoyan.com/films/71946?merName=chuizi&merCode=1000034&_v_=yes|
+|url| 电影链接|string |http://phoneapi.sanjiaoshou.net/nlp/q?key:aqEytw5QLU5geveQ0G8gZIrxYddpHu0Q0QZNxGSYusOrwLEsB7TwTPR3toED_4OQbDdsivVG7f9ktdmdHNN2Yo6AB-FC9g63UU_2o4-A-tDVtsGGQdarNuRpUfzOXqdTiyzkk0v2wRXCDuhewmf8T71iZvocq8aMki4mcKjqcZslc5VsSqI1aI9Pguvzu_uCQEIG4XZptsE=|
 |intent|跳转链接 |string | |
 |source| 来源标识| string| MaoyanFilm|
 
