@@ -1,13 +1,15 @@
 >#地图资源卡片
 
-#### ui展示效果
-#### 测试demo
+
+####1.测试demo
 {%fbq%}
 term:##地点名称##
 ner:##ADMIN##
 {%endfbq%}
+####2.返回 Json 示例
 
-#### 返回字段说明
+
+####3.返回字段说明
 
 >卡片字段名称：baidu_poi_list
 
@@ -25,3 +27,8 @@ ner:##ADMIN##
 |url|百度链接|string|http://map.baidu.com/?l=&s=s%26wd%3D五道口保理学院|
 |intent|跳转链接|string|baidumap://map/geocoder?src=openApiDemo&address=五道口保理学院|
 |source|来源标识|string|locBaidu|
+
+
+####4.UI 效果展示
+
+
