@@ -3,8 +3,8 @@
 
 ####1.测试 Demo
 {%fbq%}
-term:##人物名称##
-ner:##PERSON_NAME##
+term:##通用卡片名称##
+ner:##通用卡片实体##
 {%endfbq%}
 ####2.返回 Json 示例
 
