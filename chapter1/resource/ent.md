@@ -115,3 +115,10 @@
 |intent|------|跳转链接 | string|douban://douban.com/movie/6874741?from=mdouba |
 |source|------|来源标识 |string | DoubanFilm|
 ####4.UI 展示效果
+>电影资源卡片展示
+
+<div align="center">
+<img src="/assets/chapter1/film.png" align="center" alt="电影资源卡片实例">
+</div>
+
+
