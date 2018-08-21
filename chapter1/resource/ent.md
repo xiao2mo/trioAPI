@@ -9,7 +9,88 @@
 ####2.返回 Json 示例
 >测试 query 内容：听说无问东西挺不错的，一起去看。
 
-
+```json
+{
+    "error_code": 0,
+    "error_msg": "success",
+    "query": "听说无问东西挺不错的，一起去看吧。",
+    "result_list": [
+        {
+            "divided_list": [
+                "听说",
+                "无",
+                "问",
+                "东西",
+                "挺",
+                "不错",
+                "的",
+                "，",
+                "一起",
+                "去",
+                "看吧",
+                "。"
+            ],
+            "domain_list": [
+                {
+                    "name": "地图",
+                    "value": 0.17573775351047516
+                },
+                {
+                    "name": "医疗",
+                    "value": 0.16497696936130524
+                },
+                {
+                    "name": "购物",
+                    "value": 0.15696236491203308
+                }
+            ],
+            "term_list": [
+                {
+                    "token": "听说",
+                    "ner": "O"
+                },
+                {
+                    "token": "无问东西",
+                    "ner": "FILM"
+                },
+                {
+                    "token": "挺",
+                    "ner": "O"
+                },
+                {
+                    "token": "不错",
+                    "ner": "O"
+                },
+                {
+                    "token": "的",
+                    "ner": "O"
+                },
+                {
+                    "token": "，",
+                    "ner": "O"
+                },
+                {
+                    "token": "一起",
+                    "ner": "O"
+                },
+                {
+                    "token": "去",
+                    "ner": "O"
+                },
+                {
+                    "token": "看吧",
+                    "ner": "O"
+                },
+                {
+                    "token": "。",
+                    "ner": "O"
+                }
+            ]
+        }
+    ],
+    "log_id": "7bfa1779-2d6d-4c13-b2ca-45c7ca0a1823"
+}
+```
 ####3.返回字段说明
 >卡片字段名称：<font clor="blue"> film_list </font>
 
