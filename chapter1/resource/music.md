@@ -1,13 +1,15 @@
 >#音乐资源卡片
 
-#### ui展示效果
-#### 测试demo
+
+####1.测试demo
 {%fbq%}
 term:##音乐名称##
 ner:##MUSIC##
 {%endfbq%}
+####2.返回 Json 示例
 
-#### 返回字段说明
+
+####3.返回字段说明
 
 >卡片字段名称：wangyi_music_list
 
@@ -22,6 +24,9 @@ ner:##MUSIC##
 |language|歌曲语言|string|国语|
 |url|歌曲链接|string|http://www.kuwo.cn/yinyue/28457899|
 |source|来源标识|string|WangyiMusic|
+
+####4.UI 效果展示
+
 
 
 
