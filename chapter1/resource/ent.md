@@ -10,7 +10,7 @@
 
 
 #### 返回字段说明
-卡片字段名称：<font clor="blue"> film_list </font>
+>卡片字段名称：<font clor="blue"> film_list </font>
 
 |名称|子字段|说明|类型|示例|
 |:---|:---|:---|:---|:---|
