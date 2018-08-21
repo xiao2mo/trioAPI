@@ -22,6 +22,7 @@
     * [常见动物卡片](chapter1/resource/animal.md)
     * [常见植物卡片](chapter1/resource/plant.md)
     * [常见球员卡片](chapter1/resource/player.md)
+    * [常见球队卡片](chapter1/resource/chang-jian-qiu-dui-qia-pian.md)
     * [通用订制卡片](chapter1/resource/universal.md)
   * [智慧识屏UI规范](chapter1/card_ui/README.md)
 * [智慧识屏在线语义解决方案 Web Api](chapter2/README.md)
