@@ -1,13 +1,14 @@
 >#商品信息卡片
 
-#### ui展示效果
-#### 测试demo
+####1.测试demo
 {%fbq%}
 term:##商品名称##
 ner:##PROD##
 {%endfbq%}
+####2.返回 Json 示例
 
-#### 返回字段说明
+
+####3.返回字段说明
 
 >卡片字段名称：jd_ware_list
 
@@ -23,3 +24,6 @@ ner:##PROD##
 |url|商品H5跳转链接|string|https://item.jd.com/5089253.html|
 |intent|商品app跳转链接|string|| 
 ** ~~删除线部分为暂时缺失的字段~~ **
+
+####4.UI 效果展示
+
