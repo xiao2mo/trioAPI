@@ -1,13 +1,14 @@
 >#美团卡片
 
-#### ui展示效果
-#### 测试demo
+####1.测试demo
 {%fbq%}
 term:##餐馆名称##
 ner:##CATER##
 {%endfbq%}
+####2.返回 Json 示例
 
-#### 返回字段说明
+
+####3.返回字段说明
 
 >卡片字段名称：meituan_list
 
@@ -34,6 +35,8 @@ ner:##CATER##
 |url|美团链接|string|https://kuai.baidu.com/webapp/train/stationlist.html?trainno=K1026|
 |intent|跳转链接|string||
 |source|来源标识|string|BaiduTrain|
+
+####4.UI 效果展示
 
 
 
