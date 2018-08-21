@@ -1,12 +1,15 @@
 >#图书信息卡片
 
-#### ui展示效果
-#### 测试demo
+
+####1.测试 Demo
 {%fbq%}
 term:##图书名称##
 ner:##BOOK##
 {%endfbq%}
-#### 返回字段说明
+
+####2.返回 Json 示例
+
+####3.返回字段说明
 >卡片字段名称：book_list
 
 |名称|说明|类型|示例|
@@ -39,6 +42,7 @@ ner:##BOOK##
 |intent|跳转链接|string|douban://douban.com/book/1034282?from=mdouba|
 |source|来源标识|string|DoubanBook|
 
+####4.UI 效果展示
 
 
 
