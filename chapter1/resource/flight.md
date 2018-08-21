@@ -1,6 +1,6 @@
 >#航班信息卡片
 
-####1.测试demo
+####1.测试 Demo
 {%fbq%}
 term:##航班名称##
 ner:##FLIGHT_NUM##
