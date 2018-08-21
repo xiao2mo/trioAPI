@@ -1,11 +1,12 @@
 >#影视信息卡片
 
-#### ui展示效果
-#### 测试demo
+#### 测试 Demo
 [^_^]:{%fbq%}
 [^_^]:term:##影视名称##
 [^_^]:ner:##FILM##
 [^_^]:{%endfbq%}
+
+#### 返回 Json 示例
 
 
 #### 返回字段说明
@@ -31,3 +32,4 @@
 |url|------| 豆瓣链接| string| https://movie.douban.com/subject/6874741|
 |intent|------|跳转链接 | string|douban://douban.com/movie/6874741?from=mdouba |
 |source|------|来源标识 |string | DoubanFilm|
+#### ui展示效果
