@@ -28,7 +28,7 @@
 | baidu_poi_list| GPS资源列表| 百度| LOC|
 | waimai_list| 外卖资源列表| 美团、点评| LOC.CATER|
 | team_list| 球队资源列表|百科、懂球帝|SPORTS.TEAM|
-| player_list| 球员资源列表|百科、懂球帝| SPORTS.TEAM|
+| player_list| 球员资源列表|百科、懂球帝|SPORTS.TEAM|
 
 
 
