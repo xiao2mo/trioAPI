@@ -4,7 +4,7 @@
 ####1.测试 Demo
 {%fbq%}
 term:##动物名称##
-ner:##PERSON_NAME##
+ner:##ENTITY.ANIMAL##
 {%endfbq%}
 ####2.返回 Json 示例
 
