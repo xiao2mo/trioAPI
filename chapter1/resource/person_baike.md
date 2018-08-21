@@ -1,7 +1,7 @@
 >#人物百科卡片
 
 
-####1.测试demo
+####1.测试 Demo
 {%fbq%}
 term:##人物名称##
 ner:##PERSON_NAME##
