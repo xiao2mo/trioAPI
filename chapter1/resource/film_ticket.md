@@ -28,13 +28,13 @@ ner:##FILM##
 
 |名称|说明|类型|示例|
 |:---|:---|:---|:---|
-|id|  猫眼id| string |  71946|
-|name| 名称 | string | 无问西东 |
-|point| 猫眼评分 |  string| 8.6 |
+|id|  猫眼id| string |  1200486|
+|name| 名称 | string | 我不是药神 |
+|point| 猫眼评分 |  string| 9.6 |
 |showst| 展示个数|  string | 1 |
-|type| 类型|string | 爱情、战争|
-|ticketUrl|购票链接 |string | http://m.maoyan.com/cinema/movie/71946|
-|trailerUrl|预览链接 |string |http://maoyan.meituan.net/movie/videos/854x480a5a5aa819b504a80a9c84d2b03814feb.mp4 |
+|type| 类型|string | 剧情、喜剧|
+|ticketUrl|购票链接 |string | http://m.maoyan.com/cinema/movie/1200486|
+|trailerUrl|预览链接 |string |http://maoyan.meituan.net/movie/videos/854x4804c109134879943f4b24387adc040504b.mp4 |
 |url| 电影链接|string |http://maoyan.com/films/71946?merName=chuizi&merCode=1000034&_v_=yes|
 |intent|跳转链接 |string | |
 |source| 来源标识| string| MaoyanFilm|
