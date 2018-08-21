@@ -26,5 +26,13 @@
 | calendar_list| 日程资源列表| ---| TIME|
 | kuaidi_list| 快递资源列表| 快递100| NUM.EXPRESS_CODE|
 | baidu_poi_list| GPS资源列表| 百度| LOC|
+| waimai_list| 外卖资源列表| 美团、点评| LOC.CATER|
+| team_list| 球队资源列表|百科、懂球帝|SPORTS.TEAM|
+| player_list| 球员资源列表|百科、懂球帝| SPORTS.TEAM|
+
+
+
+
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本小节所包含的具体卡片，将详细介绍线上卡片资源请求的返回格式，以及在手机端的实际运行效果。
