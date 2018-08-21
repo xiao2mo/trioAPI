@@ -7,9 +7,24 @@
 [^_^]:{%endfbq%}
 
 ####2.返回 Json 示例
+
 >测试 query 内容：听说无问东西挺不错的，一起去看。
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
 {
     "error_code": 0,
     "error_msg": "success",
@@ -90,12 +105,7 @@
     ],
     "log_id": "7bfa1779-2d6d-4c13-b2ca-45c7ca0a1823"
 }
-
-
-
-
-
-
+`
 ####3.返回字段说明
 >卡片字段名称：<font clor="blue"> film_list </font>
 
