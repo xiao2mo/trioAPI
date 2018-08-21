@@ -28,6 +28,6 @@
 |casts|avatarUrl| 演员肖像链接|string |https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1359895311.0.jpg |
 |casts|id|演员id |string |1041014|
 |casts|name| 演员名称| string|章子怡 |
-|url| 豆瓣链接| string| https://movie.douban.com/subject/6874741|
-|intent|跳转链接 | string|douban://douban.com/movie/6874741?from=mdouba |
-|source|来源标识 |string | DoubanFilm|
+|url|------| 豆瓣链接| string| https://movie.douban.com/subject/6874741|
+|intent|------|跳转链接 | string|douban://douban.com/movie/6874741?from=mdouba |
+|source|------|来源标识 |string | DoubanFilm|
