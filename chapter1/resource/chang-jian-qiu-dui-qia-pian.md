@@ -4,7 +4,7 @@
 ####1.测试 Demo
 {%fbq%}
 term:##球队名称##
-ner:##PERSON_NAME##
+ner:##SPORTS_TEAM##
 {%endfbq%}
 ####2.返回 Json 示例
 
