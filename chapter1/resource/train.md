@@ -1,13 +1,17 @@
 >#火车信息卡片
 
-#### ui展示效果
-#### 测试demo
+
+####1.测试demo
 {%fbq%}
 term:##火车名称##
 ner:##TRAIN_NUM##
 {%endfbq%}
 
-#### 返回字段说明
+
+####2.返回 Json 示例
+
+
+####3.返回字段说明
 
 >卡片字段名称：train_list
 
@@ -28,5 +32,7 @@ ner:##TRAIN_NUM##
 |url|火车链接|string|https://kuai.baidu.com/webapp/train/stationlist.html?trainno=K1026|
 |intent|跳转链接|string||
 |source|来源标识|string|BaiduTrain|
+
+####4.UI 效果展示
 
 
