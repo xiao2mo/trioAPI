@@ -7,7 +7,7 @@
 [^_^]:{%endfbq%}
 
 ####2.返回 Json 示例
-
+>测试 query 内容：听说无问东西挺不错的，一起去看吧。
 
 ####3.返回字段说明
 >卡片字段名称：<font clor="blue"> film_list </font>
