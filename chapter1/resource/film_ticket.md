@@ -8,7 +8,20 @@ ner:##FILM##
 
 
 ####2.返回 Json 示例
-
+```json
+{
+    "id": "1200486",
+    "name": "我不是药神",
+    "point": "9.6",
+    "showst": "1",
+    "type": "剧情,喜剧",
+    "ticketUrl": "http://m.maoyan.com/cinema/movie/1200486",
+    "trailerUrl": "http://maoyan.meituan.net/movie/videos/854x4804c109134879943f4b24387adc040504b.mp4",
+    "url": "http://phoneapi.sanjiaoshou.net/nlp/q?key:aqEytw5QLU5geveQ0G8gZIrxYddpHu0Q0QZNxGSYusOrwLEsB7TwTPR3toED_4OQbDdsivVG7f9ktdmdHNN2Yo6AB-FC9g63UU_2o4-A-tDVtsGGQdarNuRpUfzOXqdTiyzkk0v2wRXCDuhewmf8T71iZvocq8aMki4mcKjqcZslc5VsSqI1aI9Pguvzu_uCQEIG4XZptsE=",
+    "intent": "",
+    "source": "MaoyanFilm"
+}
+```
 ####3.返回字段说明
 
 >卡片字段名称：cinemaInfo_list
