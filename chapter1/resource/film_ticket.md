@@ -1,12 +1,16 @@
 >#电影购票卡片
 
-#### ui展示效果
-#### 测试demo
+####1.测试 Demo
 {%fbq%}
 term:##影视名称##
 ner:##FILM##
 {%endfbq%}
-#### 返回字段说明
+
+
+####2.返回 Json 示例
+
+####3.返回字段说明
+
 >卡片字段名称：cinemaInfo_list
 
 |名称|说明|类型|示例|
@@ -21,4 +25,8 @@ ner:##FILM##
 |url| 电影链接|string |http://maoyan.com/films/71946?merName=chuizi&merCode=1000034&_v_=yes|
 |intent|跳转链接 |string | |
 |source| 来源标识| string| MaoyanFilm|
+
+
+####4.UI 效果展示
+
 

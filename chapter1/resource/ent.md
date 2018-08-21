@@ -121,7 +121,7 @@ ner:##FILM##
 |url|------| 豆瓣链接| string| https://movie.douban.com/subject/6874741|
 |intent|------|跳转链接 | string|douban://douban.com/movie/6874741?from=mdouba |
 |source|------|来源标识 |string | DoubanFilm|
-####4.UI 展示效果
+####4.UI 效果展示
 >电影资源卡片展示
 
 <div align="center">
