@@ -8,7 +8,6 @@
     * [命名实体类型](chapter1/nlp_ner.md)
   * [智慧识屏卡片](chapter1/card_resources.md)
     * [影视信息卡片](chapter1/resource/ent.md)
-    * [000temp.md](chapter1/resource/000tempmd.md)
     * [电影购票卡片](chapter1/resource/film_ticket.md)
     * [图书信息卡片](chapter1/resource/book.md)
     * [淘口令卡片](chapter1/resource/tkl.md)
