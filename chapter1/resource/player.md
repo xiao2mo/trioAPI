@@ -3,8 +3,8 @@
 
 ####1.测试 Demo
 {%fbq%}
-term:##人物名称##
-ner:##PERSON_NAME##
+term:##球员名称##
+ner:##SPORTS_PLAYER##
 {%endfbq%}
 ####2.返回 Json 示例
 
