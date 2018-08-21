@@ -3,7 +3,7 @@
 
 ####1.测试 Demo
 {%fbq%}
-term:##人物名称##
+term:##动物名称##
 ner:##PERSON_NAME##
 {%endfbq%}
 ####2.返回 Json 示例
