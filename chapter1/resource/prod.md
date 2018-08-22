@@ -32,7 +32,7 @@ ner:##PROD##
 |point|商品评分|string|99|
 |~~price~~|~~商品价格~~|string|7299.00|
 |shopId|商品店铺id|string|1000000127|
-|url|商品H5跳转链接|string|https://item.jd.com/5089253.html|
+|url|商品H5跳转链接|string|http://phoneapi.sanjiaoshou.net/nlp/q?key:kmS5XyPnNzxUhzYS8jDbm3bU67IPqRzpGxmVA7h_5lfuaFK2Z4uZHBRMAfhGnd8YLeF9aCMS-08Es7x9JUfdNiqeyZT29UDbOQNeEf2LZ3RpwLkxmflQ0h8Xtxh9eFuWToGkLq_j8bk=|
 |intent|商品app跳转链接|string|| 
 ** ~~删除线部分为暂时缺失的字段~~ **
 
