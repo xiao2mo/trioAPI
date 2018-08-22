@@ -62,7 +62,7 @@ ner:##ADMIN##
 |gpsType|GPS类型|string|GCJ02|
 |phone|餐馆电话|string|(0755)86287286|
 |name|POI名称|string|肯德基(保利餐厅)|
-|address|具体地址|string|深圳市南山区桃园路8号田厦国际中心B座1918室|
+|address|具体地址|string|深圳市南山区文心六路保利文化广场F1|
 |lat|经度|string|22.53270639342764|
 |lng|纬度|string|113.92731915040862|
 |subSource|兜底资源|string|bdLocalSearch|
