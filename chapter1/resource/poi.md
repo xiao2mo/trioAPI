@@ -11,16 +11,14 @@ ner:##ADMIN##
 
 ```json
 {
-    {
-        "name": "肯德基",
-        "url": "http://phoneapi.sanjiaoshou.net/nlp/qkey:L9jI2NvDhiH9VyzMs3BTSDg_x5ueFGYOXELOAckkUQkZ1ib0p03XqZK00dzxrvi8tP1vm5c06DryDUF-HUC2cVkwI2-kYRlywQ2arcmDZ0g12woSxB9_JYEZlw5Da_czDHBdHG9VsRs=",
-        "intent": "androidamap://poi?sourceApplication=trio&dev=0&keywords=%E8%82%AF%E5%BE%B7%E5%9F%BA"
-    },
-    {
-        "name": "肯德基",
-        "url": "http://phoneapi.sanjiaoshou.net/nlp/q?key:Dgf0Y2xbrvAV0PjsGUg82a_KC9JVt_YYVcyAPzo_O1nu0w2BigEm-1DYgrh116PDButxCMIqwqRtqEE2y4t5XFTg_IMO2DvfEr1-tkuUAX16kMwdFsEWELeFpwUF-CP1MBO1h_TcA3coFXsCF7S68LEgunV8tV3mQgGn3mX7GJI=",
-        "intent": "baidumap://map/geocoder?src=trio&address=%E8%82%AF%E5%BE%B7%E5%9F%BA"
-    }
+    "name": "肯德基",
+    "url": "http://phoneapi.sanjiaoshou.net/nlp/qkey:L9jI2NvDhiH9VyzMs3BTSDg_x5ueFGYOXELOAckkUQkZ1ib0p03XqZK00dzxrvi8tP1vm5c06DryDUF-HUC2cVkwI2-kYRlywQ2arcmDZ0g12woSxB9_JYEZlw5Da_czDHBdHG9VsRs=",
+    "intent": "androidamap://poi?sourceApplication=trio&dev=0&keywords=%E8%82%AF%E5%BE%B7%E5%9F%BA"
+},
+{
+    "name": "肯德基",
+    "url": "http://phoneapi.sanjiaoshou.net/nlp/q?key:Dgf0Y2xbrvAV0PjsGUg82a_KC9JVt_YYVcyAPzo_O1nu0w2BigEm-1DYgrh116PDButxCMIqwqRtqEE2y4t5XFTg_IMO2DvfEr1-tkuUAX16kMwdFsEWELeFpwUF-CP1MBO1h_TcA3coFXsCF7S68LEgunV8tV3mQgGn3mX7GJI=",
+    "intent": "baidumap://map/geocoder?src=trio&address=%E8%82%AF%E5%BE%B7%E5%9F%BA"
 }
 ```
 
@@ -53,7 +51,7 @@ ner:##ADMIN##
 |:---|:---|:---|:---|
 |name|餐馆名称|string|GCJ02|
 |url|餐馆链接|string|http://phoneapi.sanjiaoshou.net/nlp/qkey:L9jI2NvDhiH9VyzMs3BTSDg_x5ueFGYOXELOAckkUQkZ1ib0p03XqZK00dzxrvi8tP1vm5c06DryDUF-HUC2cVkwI2-kYRlywQ2arcmDZ0g12woSxB9_JYEZlw5Da_czDHBdHG9VsRs=|
-|intent|跳转链接|string|GCJ02|
+|intent|跳转链接|string|androidamap://poi?sourceApplication=trio&dev=0&keywords=%E8%82%AF%E5%BE%B7%E5%9F%BA|
 
 
 
