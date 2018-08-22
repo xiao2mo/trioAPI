@@ -42,7 +42,7 @@ ner:##TRAIN_NUM##
 |stationInfo|stationtotal|时间总和|string|待定|
 |stationInfo|stationname|车站名称|string|待定|
 |url|火车链接|http://phoneapi.sanjiaoshou.net/nlp/q?key:SyVs8_lemRqQKWvAERdWznZ_9YlxDiqMxAUvQLHHnZEkJs8NpIhyf9E_4eEjhvZGROrN-tEynA9MhzbSHug5byB_0-g0PrlMmsmO3RPAd4-3E_TMcxx_TLWBMKu0ymwzFt9ztxuhZJquC81L608kQ-aInig1xkXVvytA0LXSC6zH0G7jBN5qcg==|
-|intent|------|跳转链接|string||
+|intent|------|跳转链接|string|------|
 |source|------|来源标识|string|BaiduTrain|
 
 ####4.UI 效果展示
