@@ -68,7 +68,7 @@ ner:##ADMIN##
 |subSource|兜底资源|string|bdLocalSearch|
 |thumbnail|地址缩略图|string|http://api.map.baidu.com/staticimage/v2?ak=ERcMaGj5nOE3EdvHYEEIKBeavMDpEkex&mcode=666666&width=480&height=360&zoom=18&center=113.943755,22.522782&markers=113.943755,22.522782|
 |relScore|百度链接|string|1|
-|url|链接|string|http://phoneapi.sanjiaoshou.net/nlp/q?key:QKyOG0SrO01xXiVNO2x80LCED-FjiEE8n0ICBZHZzE-fDjNgTdXweeByT99Itmq-Ic-PmHQJtX30jR6mbd4H-_unwoeHH8RRPtrEv_XVkGVbzF3Ut1shf9XRFwnNykeF8TwzKnS_XnlEmC_XBj1sTi7DWuw3NhrMpRcdi3dPI0_VSn-EAv2_mHTSZm0rpwERDplUiTMKP4oAvS9FecZKaTAWyvCgUjmbNe7rNRGB4f4pQQ5BGaFD5NJop7UFDzMMbUtvDCp4gouLmKPm-UNr2g==|
+|url|百度链接|string|http://phoneapi.sanjiaoshou.net/nlp/q?key:QKyOG0SrO01xXiVNO2x80LCED-FjiEE8n0ICBZHZzE-fDjNgTdXweeByT99Itmq-Ic-PmHQJtX30jR6mbd4H-_unwoeHH8RRPtrEv_XVkGVbzF3Ut1shf9XRFwnNykeF8TwzKnS_XnlEmC_XBj1sTi7DWuw3NhrMpRcdi3dPI0_VSn-EAv2_mHTSZm0rpwERDplUiTMKP4oAvS9FecZKaTAWyvCgUjmbNe7rNRGB4f4pQQ5BGaFD5NJop7UFDzMMbUtvDCp4gouLmKPm-UNr2g==|
 |intent|跳转链接|string|baidumap://map/geocoder?src=trio&address=肯德基(保利餐厅)|
 |source|来源标识|string|locBaidu|
 
