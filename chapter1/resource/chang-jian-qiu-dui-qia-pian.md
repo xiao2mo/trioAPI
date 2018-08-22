@@ -27,9 +27,8 @@ ner:##SPORTS_TEAM##
 
 |名称|子字段|说明|类型|示例|
 |:---|:---|:---|:---|:---|
-|cnname|------|中文名称|string|内马尔|
-|birthday|------|球员名称|string|1992-02-05|
-|pic_url|------|图片地址|string|http://kg.sanjiaoshou.net/footballImg/players/50069499|
+|cnname|------|中文名称|string|阿根廷|
+|pic_url|------|图片地址|string|https://img.dongqiudi.com/data/pic/132.png|
 |custom_info|birthday|球员生日|string|1992-02-05|
 |custom_info|number|球员编号|string|10|
 |custom_info|stat|球员状态|string|{\"key\":\"2018世界杯\",\"score\":\"2\",\"assist\":\"1\"}|
