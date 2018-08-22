@@ -8,14 +8,13 @@ ner:##ENTITY.PLANT##
 {%endfbq%}
 ####2.返回 Json 示例
 ```json
+
 {
-    {
     "name": "松树",
     "pic_url": "http://a4.att.hudong.com/54/14/20300542501520139737149238323_140.jpg",
     "summary": "松树，松科（Pinaceae）松属植物的通称，常绿树。绝大多数是高大乔木。高20～50米，最高可达75米（美国的糖松P.lambertiana）。松树具有很强的抗旱性，耐阴性差。极少数为灌木状，如偃松（P.pumila）和地盘松（P.yunnanensis）。北半球森林的重要构成成分，人工造林的重要树种，也是很有价值的观赏树种。",
     "url": "http://phoneapi.sanjiaoshou.net/nlp/q?key:wmqrteS4gLFe3G7a8-hha62xyzjtw9Xz13cblksvZatIuz7IuTbNpg==",
     "source": "Hudong"
-}
 }
 ```
 
