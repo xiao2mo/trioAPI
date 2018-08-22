@@ -57,20 +57,20 @@ ner:##FLIGHT_NUM##
 |名称|说明|类型|示例|
 |:---|:---|:---|:---|
 |flightNo|航班id|string|KN5987|
-|flightCompany|承运公司|string|北京|
-|flightDepcode|起始城市代码|string|上海|
-|flightArrcode|目标城市代码|string|北京|
-|FlightHTerminal|起始航站楼|string|北京|
-|FlightTerminal|目标航站楼|string|上海|
-|flightDeptimePlanDate|起飞预定时间|string|上海|
-|flightArrtimePlanDate|抵达预定时间|string|北京|
-|flightDep|起始城市|string|上海|
-|flightArr|目标城市|string|北京|
-|flightDepAirport|起始机场|string|上海|
-|flightArrAirport|目标机场|string|北京|
-|ontimeRate|准点率|string|上海|
-|flightState|航班状态|string|北京|
-|url|订票链接|string|上海|
+|flightCompany|承运公司|string|深圳航空|
+|flightDepcode|起始城市代码|string|PEK|
+|flightArrcode|目标城市代码|string|PVG|
+|FlightHTerminal|起始航站楼|string|T3|
+|FlightTerminal|目标航站楼|string|T2|
+|flightDeptimePlanDate|起飞预定时间|string|2018-08-22 20:20:00|
+|flightArrtimePlanDate|抵达预定时间|string|2018-08-22 22:35:00|
+|flightDep|起始城市|string|北京|
+|flightArr|目标城市|string|上海|
+|flightDepAirport|起始机场|string|北京首都|
+|flightArrAirport|目标机场|string|上海浦东|
+|ontimeRate|准点率|string|100%|
+|flightState|航班状态|string|计划|
+|url|订票链接|string|http://phoneapi.sanjiaoshou.net/nlp/q?key:DOrRtuZ2LOF81rDcB4SXeoVD_mvvEn6tJXZ8jdsh4UFBoDr5RgXbj4SDPNKO4zu2kerFyhQClnLjtzRvp-KMgdAtzsnEC-dl5AMImwP866rTdqTfJRsjFeaCe2j2_GX6Ovvl478JeYYf7qxHnPMiBXqiYp90pwnWkkHnxpjCHQ8DCDi4WKMUz6EzTmcMqrlTQZ6CGKkEbq7E62ootjhd5b6zal1W0uc9LnogmP8XzQWaMuKTUIq9z2O9wqhZP_9QIVQibqr9o4Z7pn6s0r8LiY_TQPqHCjThItXBHML8o5vutbon0EUSfucnqLVfhitEFZ9L1Hpq3DmiyEh5W-yvfD6cCnAhbWwUHYdnKHV99Qk9JrhEkv8K3pk3vLlso28B6T29m_0XZra5aiAZG_Z6FGTbQGUP47Fv0ws7rViVlJLjANo27vg19rYItMf-K4lZ54eNinnLLk6vbErgHmGn3ujnVyvuJiee7pEMRNRjSbE=|
 |source|来源标识|string|Trio_Feiyou|
 
 
