@@ -16,7 +16,6 @@
     * [美团资源卡片](chapter1/resource/meituan.md)
     * [地图资源卡片](chapter1/resource/poi.md)
     * [人物百科卡片](chapter1/resource/person_baike.md)
-    * [百科通用卡片](chapter1/resource/general_baike.md)
     * [音乐资源卡片](chapter1/resource/music.md)
     * [商品信息卡片](chapter1/resource/prod.md)
     * [常见动物卡片](chapter1/resource/animal.md)
