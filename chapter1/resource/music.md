@@ -33,7 +33,7 @@ ner:##MUSIC##
 |score|歌曲评分|string|50|
 |name|歌曲名称|string|快乐崇拜|
 |language|歌曲语言|string|国语|
-|url|歌曲链接|string|http://www.kuwo.cn/yinyue/28457899|
+|url|歌曲链接|string|http://phoneapi.sanjiaoshou.net/nlp/q?key:6wOz3aRoPLLzJH69EeqEpSRwvCu38INZLFf33SMHSuJEHtw5fmj4a_mbCV117qb39bb0jA8gY4jyXSdLhhP92c8AuS7QXy2skkr8HpmI9hlQDvA--IZ5h3RiYEMZAUv1U9T-CioqhpZDkDdd99jM-g==|
 |source|来源标识|string|WangyiMusic|
 
 ####4.UI 效果展示
