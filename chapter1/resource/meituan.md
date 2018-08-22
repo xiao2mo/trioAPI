@@ -93,7 +93,7 @@ ner:##CATER##
 |subcate|次类别|string|小吃快餐|
 |price|价格|string|￥0.0|
 |point|评分|string|0.0|
-|phone|联系方式|string|400-920-8801|
+|phone|联系方式|string|13686493637|
 |lat|经度|string|22.523688|
 |lng|纬度|string|113.941458|
 |gpsType|GPS类型|string|GCJ02|
