@@ -51,6 +51,11 @@ ner:##ADMIN##
 
 |名称|说明|类型|示例|
 |:---|:---|:---|:---|
+|name|GPS类型|string|GCJ02|
+|url|GPS类型|string|GCJ02|
+|intent|GPS类型|string|GCJ02|
+
+
 
 
 >卡片字段名称：baidu_poi_list
