@@ -34,32 +34,15 @@ ner:##SPORTS_PLAYER##
 |:---|:---|:---|:---|:---|
 |cnname|------|中文名称|string|无问西东|
 |birthday|------|中文名称|string|无问西东|
-|cnname|------|中文名称|string|无问西东|
-
-
-
-
-
-
-|cnname|------|中文名称|string|无问西东|
-
-
-
-
-|cnname|------|中文名称|string|无问西东|
-
-
-|cnname|------|中文名称|string|无问西东|
-
-|cnname|------|中文名称|string|无问西东|
-
-|cnname|------|中文名称|string|无问西东|
-|cnname|------|中文名称|string|无问西东|
-
-
-
-
-
+|pic_url|------|中文名称|string|无问西东|
+|custom_info|birthday|中文名称|string|无问西东|
+|custom_info|number|中文名称|string|无问西东|
+|custom_info|stat|中文名称|string|无问西东|
+|custom_info|nation|中文名称|string|无问西东|
+|custom_info|postion|中文名称|string|无问西东|
+|custom_info|club|中文名称|string|无问西东|
+|custom_info|tag|中文名称|string|无问西东|
+|url|------|中文名称|string|无问西东|
 ####4.UI 效果展示
 
 
