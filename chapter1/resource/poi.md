@@ -63,8 +63,8 @@ ner:##ADMIN##
 |phone|餐馆电话|string|(0755)86287286|
 |name|POI名称|string|肯德基(保利餐厅)|
 |address|具体地址|string|深圳市南山区文心六路保利文化广场F1|
-|lat|经度|string|22.53270639342764|
-|lng|纬度|string|113.92731915040862|
+|lat|经度|string|22.51712327259213|
+|lng|纬度|string|113.93720325174111|
 |subSource|兜底资源|string|bdLocalSearch|
 |thumbnail|地址缩略图|string|http://api.map.baidu.com/staticimage/v2?ak=ERcMaGj5nOE3EdvHYEEIKBeavMDpEkex&mcode=666666&width=480&height=360&zoom=18&center=113.933853,22.538433&markers=113.933853,22.538433|
 |relScore|百度链接|string|1|
