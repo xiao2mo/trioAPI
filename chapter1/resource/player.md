@@ -33,16 +33,16 @@ ner:##SPORTS_PLAYER##
 |名称|子字段|说明|类型|示例|
 |:---|:---|:---|:---|:---|
 |cnname|------|中文名称|string|无问西东|
-|birthday|------|中文名称|string|无问西东|
-|pic_url|------|中文名称|string|无问西东|
-|custom_info|birthday|中文名称|string|无问西东|
-|custom_info|number|中文名称|string|无问西东|
-|custom_info|stat|中文名称|string|无问西东|
-|custom_info|nation|中文名称|string|无问西东|
-|custom_info|postion|中文名称|string|无问西东|
-|custom_info|club|中文名称|string|无问西东|
-|custom_info|tag|中文名称|string|无问西东|
-|url|------|中文名称|string|无问西东|
+|birthday|------|球员名称|string|无问西东|
+|pic_url|------|图片地址|string|无问西东|
+|custom_info|birthday|球员生日|string|无问西东|
+|custom_info|number|球员编号|string|无问西东|
+|custom_info|stat|球员状态|string|无问西东|
+|custom_info|nation|球员国家|string|无问西东|
+|custom_info|postion|球员位置|string|无问西东|
+|custom_info|club|俱乐部名称|string|无问西东|
+|custom_info|tag|球员标签|string|无问西东|
+|url|------|球员链接|string|无问西东|
 ####4.UI 效果展示
 
 
