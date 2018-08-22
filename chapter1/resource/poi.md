@@ -58,9 +58,10 @@ ner:##ADMIN##
 
 |名称|说明|类型|示例|
 |:---|:---|:---|:---|
-|id|地址id|string|3dee767333bdcf173586f447|
+|id|地址id|string|d6c5d9917f3c89f131169b92|
 |gpsType|GPS类型|string|GCJ02|
-|name|POI名称|string|五道口保理学院|
+|phone|餐馆电话|string|(0755)86287286|
+|name|POI名称|string|肯德基(保利餐厅)|
 |address|具体地址|string|深圳市南山区桃园路8号田厦国际中心B座1918室|
 |lat|经度|string|22.53270639342764|
 |lng|纬度|string|113.92731915040862|
