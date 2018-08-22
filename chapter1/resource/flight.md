@@ -19,6 +19,26 @@ ner:##FLIGHT_NUM##
 ```
 
 >示例二：feiyou_flight_list
+```json
+{
+    "flightNo": "ZH1883",
+    "flightCompany": "深圳航空",
+    "flightDepcode": "PEK",
+    "flightArrcode": "PVG",
+    "FlightHTerminal": "T3",
+    "FlightTerminal": "T2",
+    "flightDeptimePlanDate": "2018-08-22 20:20:00",
+    "flightArrtimePlanDate": "2018-08-22 22:35:00",
+    "flightDep": "北京",
+    "flightArr": "上海",
+    "flightDepAirport": "北京首都",
+    "flightArrAirport": "上海浦东",
+    "ontimeRate": "100%",
+    "flightState": "计划",
+    "url": "http://phoneapi.sanjiaoshou.net/nlp/q?key:DOrRtuZ2LOF81rDcB4SXeoVD_mvvEn6tJXZ8jdsh4UFBoDr5RgXbj4SDPNKO4zu2kerFyhQClnLjtzRvp-KMgdAtzsnEC-dl5AMImwP866rTdqTfJRsjFeaCe2j2_GX6Ovvl478JeYYf7qxHnPMiBXqiYp90pwnWkkHnxpjCHQ8DCDi4WKMUz6EzTmcMqrlTQZ6CGKkEbq7E62ootjhd5b6zal1W0uc9LnogmP8XzQWaMuKTUIq9z2O9wqhZP_9QIVQibqr9o4Z7pn6s0r8LiY_TQPqHCjThItXBHML8o5vutbon0EUSfucnqLVfhitEFZ9L1Hpq3DmiyEh5W-yvfD6cCnAhbWwUHYdnKHV99Qk9JrhEkv8K3pk3vLlso28B6T29m_0XZra5aiAZG_Z6FGTbQGUP47Fv0ws7rViVlJLjANo27vg19rYItMf-K4lZ54eNinnLLk6vbErgHmGn3ujnVyvuJiee7pEMRNRjSbE=",
+    "source": "Trio_Feiyou"
+ }
+```
 
 ####3.返回字段说明
 
