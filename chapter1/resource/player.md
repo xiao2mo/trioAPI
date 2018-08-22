@@ -45,6 +45,13 @@ ner:##SPORTS_PLAYER##
 |url|------|球员链接|string|http://kg.sanjiaoshou.net/football/1/worldcup/html/index.html?uid=50069499&log_id=c4f46fa1-abb8-4382-81a2-cba80b009dc4|
 ####4.UI 效果展示
 
+>球员资源卡片展示
+
+<div align="center">
+<img src="/assets/chapter1/film.png" align="center" alt="电影资源卡片实例">
+</div>
+
+
 
 
 
