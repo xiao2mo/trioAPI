@@ -101,9 +101,8 @@ ner:##CATER##
 |wifi|是否支持wifi|string|0|
 |waimai|是否提供外卖|string|0|
 |subSource|兜底资源|string|meituan|
-|url|美团链接|string|http://phoneapi.sanjiaoshou.net/nlp/q?key:QKyOG0SrO01xXiVNO2x80LCED-FjiEE8n0ICBZHZzE-fDjNgTdXweeByT99Itmq-Ic-PmHQJtX30jR6mbd4H-yxJL9QcIFwf8ZwHJCGz1wV6sn3UXckbIye8_2m8SbKX7GKDOfSM_yBMISRxA3dTp7mWwt84m9bcWy9CTHe19VHVS0tZuEfIR2xXAGt4sslGwMfY-BOUIOMnIHi_kUqOOJ0RbHzkWGILqc7cCZSQylNFtlVgA9uszieM2qCIUGZobnRBO59uu2FIlmN_dwRLfQ==",
-    "intent": "imeituan://www.meituan.com/merchant?id=179185504|
-|intent|跳转链接|string||
+|url|美团链接|string|http://phoneapi.sanjiaoshou.net/nlp/q?key:QKyOG0SrO01xXiVNO2x80LCED-FjiEE8n0ICBZHZzE-fDjNgTdXweeByT99Itmq-Ic-PmHQJtX30jR6mbd4H-yxJL9QcIFwf8ZwHJCGz1wV6sn3UXckbIye8_2m8SbKX7GKDOfSM_yBMISRxA3dTp7mWwt84m9bcWy9CTHe19VHVS0tZuEfIR2xXAGt4sslGwMfY-BOUIOMnIHi_kUqOOJ0RbHzkWGILqc7cCZSQylNFtlVgA9uszieM2qCIUGZobnRBO59uu2FIlmN_dwRLfQ=="|
+|intent|跳转链接|string|imeituan://www.meituan.com/merchant?id=179185504|
 |source|来源标识|string|BaiduTrain|
 
 ####4.UI 效果展示
