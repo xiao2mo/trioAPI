@@ -83,8 +83,8 @@ ner:##CATER##
 
 |名称|说明|类型|示例|
 |:---|:---|:---|:---|
-|id|美团id|string|101783913|
-|name|餐馆名称|string|肯德基（软件园店）|
+|id|美团id|string|179185504|
+|name|餐馆名称|string|肯德基（科园店）|
 |cityname|城市名称|string|深圳|
 |address|餐馆地址|string|南山区软件产业基地7栋首层01-02-05号铺|
 |frontimg|餐馆图片|string|https://img.meituan.net/msmerchant/4f63c1475c1e6edaa2210d7416145f8b120120.jpg|
