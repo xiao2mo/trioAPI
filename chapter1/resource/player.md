@@ -9,21 +9,21 @@ ner:##SPORTS_PLAYER##
 ####2.返回 Json 示例
 ```json
 {
-    "cn_name": "罗纳尔多",
-    "birthday": "1996-08-22",
-    "pic_url": "https://img.dongqiudi.com/soccer/data/logo/person/234055.jpg",
+    "cn_name": "内马尔",
+    "birthday": "1992-02-05",
+    "pic_url": "http://kg.sanjiaoshou.net/footballImg/players/50069499",
     "custom_info": [
         {
-            "birthday": "1996-08-22",
-            "number": "12号",
-            "stat": "{\"key\":\"2018世界杯\",\"score\":\"0\",\"assist\":\"0\"}",
+            "birthday": "1992-02-05",
+            "number": "10",
+            "stat": "{\"key\":\"2018世界杯\",\"score\":\"2\",\"assist\":\"1\"}",
             "nation": "巴西",
-            "postion": "守门员",
-            "club": "维多利亚",
-            "tag": ""
+            "postion": "前锋",
+            "club": "巴黎圣日耳曼",
+            "tag": "助攻榜第二"
         }
     ],
-    "url": "http://kg.sanjiaoshou.net/football/1/worldcup/html/index.html?uid=50234055&log_id=af5f9846-57b1-4306-8a31-1f50d935a650"
+    "url": "http://kg.sanjiaoshou.net/football/1/worldcup/html/index.html?uid=50069499&log_id=c4f46fa1-abb8-4382-81a2-cba80b009dc4"
 }
 ```
 
