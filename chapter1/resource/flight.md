@@ -51,7 +51,7 @@ ner:##FLIGHT_NUM##
 |arrCity|目标城市|string|上海|
 |url|航班链接|string|http://phoneapi.sanjiaoshou.net/nlp/q?key:DOrRtuZ2LOF81rDcB4SXeoVD_mvvEn6tJXZ8jdsh4UFBoDr5RgXbj4SDPNKO4zu2kerFyhQClnLjtzRvp-KMgdAtzsnEC-dl-Z9HaA_9F9uj_Qhw6HvTutoFWufiLP9YfZ43L4s8e5QimKiyYQ-BT6Cs96ZBJUCp28tYFwpisjGQGflaLkXf3xcZIXSBLx8Fy0V4W7hswTixPYOKT4r0KTK9C5t1RVFqVDGiWziBDWAT_orKFwbKBg==|
 
-
+-------------------------------------------------------------
 >卡片字段名称：feiyou_flight_list
 
 |名称|说明|类型|示例|
