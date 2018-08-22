@@ -51,9 +51,9 @@ ner:##ADMIN##
 
 |名称|说明|类型|示例|
 |:---|:---|:---|:---|
-|name|GPS类型|string|GCJ02|
-|url|GPS类型|string|GCJ02|
-|intent|GPS类型|string|GCJ02|
+|name|餐馆名称|string|GCJ02|
+|url|餐馆链接|string|http://phoneapi.sanjiaoshou.net/nlp/qkey:L9jI2NvDhiH9VyzMs3BTSDg_x5ueFGYOXELOAckkUQkZ1ib0p03XqZK00dzxrvi8tP1vm5c06DryDUF-HUC2cVkwI2-kYRlywQ2arcmDZ0g12woSxB9_JYEZlw5Da_czDHBdHG9VsRs=|
+|intent|跳转链接|string|GCJ02|
 
 
 
