@@ -97,7 +97,7 @@ ner:##CATER##
 |lat|经度|string|22.523688|
 |lng|纬度|string|113.941458|
 |gpsType|GPS类型|string|GCJ02|
-|thumbNail|地理缩略图|string|http://api.map.baidu.com/staticimage/v2?ak=ERcMaGj5nOE3EdvHYEEIKBeavMDpEkex&mcode=666666&width=480&height=360&zoom=18&center=113.948006,22.529343&markers=113.948006,22.529343|
+|thumbNail|地理缩略图|string|http://api.map.baidu.com/staticimage/v2?ak=ERcMaGj5nOE3EdvHYEEIKBeavMDpEkex&mcode=666666&width=480&height=360&zoom=18&center=113.946915,22.52945&markers=113.946915,22.52945|
 |wifi|是否支持wifi|string|0|
 |waimai|是否提供外卖|string|1|
 |subSource|兜底资源|string|meituan|
