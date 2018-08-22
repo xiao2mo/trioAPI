@@ -53,7 +53,7 @@ ner:##ADMIN##
 |url|餐馆H5链接|string|http://phoneapi.sanjiaoshou.net/nlp/qkey:L9jI2NvDhiH9VyzMs3BTSDg_x5ueFGYOXELOAckkUQkZ1ib0p03XqZK00dzxrvi8tP1vm5c06DryDUF-HUC2cVkwI2-kYRlywQ2arcmDZ0g12woSxB9_JYEZlw5Da_czDHBdHG9VsRs=|
 |intent|高德跳转链接|string|androidamap://poi?sourceApplication=trio&dev=0&keywords=%E8%82%AF%E5%BE%B7%E5%9F%BA|
 |intent|百度跳转链接|string|baidumap://map/geocoder?src=trio&address=%E8%82%AF%E5%BE%B7%E5%9F%BA|
-
+-----------------------------------------------------
 >卡片字段名称：baidu_poi_list
 
 |名称|说明|类型|示例|
