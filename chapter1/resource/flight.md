@@ -71,7 +71,7 @@ ner:##FLIGHT_NUM##
 |ontimeRate|准点率|string|上海|
 |flightState|航班状态|string|北京|
 |url|订票链接|string|上海|
-|source|起始城市|string|Trio_Feiyou|
+|source|来源标识|string|Trio_Feiyou|
 
 
 
