@@ -66,7 +66,7 @@ ner:##ADMIN##
 |lat|经度|string|22.51712327259213|
 |lng|纬度|string|113.93720325174111|
 |subSource|兜底资源|string|bdLocalSearch|
-|thumbnail|地址缩略图|string|http://api.map.baidu.com/staticimage/v2?ak=ERcMaGj5nOE3EdvHYEEIKBeavMDpEkex&mcode=666666&width=480&height=360&zoom=18&center=113.933853,22.538433&markers=113.933853,22.538433|
+|thumbnail|地址缩略图|string|http://api.map.baidu.com/staticimage/v2?ak=ERcMaGj5nOE3EdvHYEEIKBeavMDpEkex&mcode=666666&width=480&height=360&zoom=18&center=113.943755,22.522782&markers=113.943755,22.522782|
 |relScore|百度链接|string|1|
 |url|百度链接|string|http://map.baidu.com/?l=&s=s%26wd%3D五道口保理学院|
 |intent|跳转链接|string|baidumap://map/geocoder?src=openApiDemo&address=五道口保理学院|
