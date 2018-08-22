@@ -35,7 +35,7 @@ ner:##ENTITY.PLANT##
 >植物资源卡片展示
 
 <div align="center">
-<img src="/assets/chapter1/dongwu.png" align="center" alt="植物资源卡片实例">
+<img src="/assets/chapter1/zhiwu.png" align="center" alt="植物资源卡片实例">
 </div>
 
 
