@@ -53,23 +53,24 @@ ner:##FLIGHT_NUM##
 
 
 >卡片字段名称：feiyou_flight_list
+
 |名称|说明|类型|示例|
 |:---|:---|:---|:---|
 |flightNo|航班id|string|KN5987|
 |flightCompany|承运公司|string|北京|
 |flightDepcode|起始城市代码|string|上海|
 |flightArrcode|目标城市代码|string|北京|
-|FlightHTerminal|起始城市|string|北京|
-|FlightTerminal|目标城市|string|上海|
-|flightDeptimePlanDate|目标城市|string|上海|
-|flightArrtimePlanDate|起始城市|string|北京|
-|flightDep|目标城市|string|上海|
-|flightArr|起始城市|string|北京|
-|flightDepAirport|目标城市|string|上海|
-|flightArrAirport|起始城市|string|北京|
-|ontimeRate|目标城市|string|上海|
-|flightState|起始城市|string|北京|
-|url|目标城市|string|上海|
+|FlightHTerminal|起始航站楼|string|北京|
+|FlightTerminal|目标航站楼|string|上海|
+|flightDeptimePlanDate|起飞预定时间|string|上海|
+|flightArrtimePlanDate|抵达预定时间|string|北京|
+|flightDep|起始城市|string|上海|
+|flightArr|目标城市|string|北京|
+|flightDepAirport|起始机场|string|上海|
+|flightArrAirport|目标机场|string|北京|
+|ontimeRate|准点率|string|上海|
+|flightState|航班状态|string|北京|
+|url|订票链接|string|上海|
 |source|起始城市|string|Trio_Feiyou|
 
 
