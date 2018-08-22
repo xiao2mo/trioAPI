@@ -87,12 +87,12 @@ ner:##CATER##
 |name|餐馆名称|string|肯德基（科园店）|
 |cityname|城市名称|string|深圳|
 |address|餐馆地址|string|南山区海天一路16号软件产业基地5栋裙楼01层28号|
-|frontimg|餐馆图片|string|https://img.meituan.net/msmerchant/4f63c1475c1e6edaa2210d7416145f8b120120.jpg|
-|openinfo|营业信息|string||
+|frontimg|餐馆图片|string|------|
+|openinfo|营业信息|string|周一至周日\n10:00-22:00|
 |cate|主类别|string|美食|
 |subcate|次类别|string|小吃快餐|
-|price|价格|string|￥32|
-|point|评分|string|4|
+|price|价格|string|￥0.0|
+|point|评分|string|0.0|
 |phone|联系方式|string|400-920-8801|
 |lat|经度|string|22.523688|
 |lng|纬度|string|113.941458|
