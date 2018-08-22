@@ -50,7 +50,7 @@ ner:##TRAIN_NUM##
 >火车资源卡片展示
 
 <div align="center">
-<img src="/assets/chapter1/huoche.png" align="center" alt="电影资源卡片实例">
+<img src="/assets/chapter1/checi.png" align="center" alt="电影资源卡片实例">
 </div>
 
 
