@@ -32,5 +32,12 @@ ner:##ENTITY.ANIMAL##
 ####4.UI 效果展示
 
 
+>动物资源卡片展示
+
+<div align="center">
+<img src="/assets/chapter1/dongwu.png" align="center" alt="电影资源卡片实例">
+</div>
+
+
 
 
