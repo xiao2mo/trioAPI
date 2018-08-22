@@ -32,17 +32,17 @@ ner:##SPORTS_PLAYER##
 
 |名称|子字段|说明|类型|示例|
 |:---|:---|:---|:---|:---|
-|cnname|------|中文名称|string|无问西东|
-|birthday|------|球员名称|string|无问西东|
-|pic_url|------|图片地址|string|无问西东|
-|custom_info|birthday|球员生日|string|无问西东|
-|custom_info|number|球员编号|string|无问西东|
-|custom_info|stat|球员状态|string|无问西东|
-|custom_info|nation|球员国家|string|无问西东|
-|custom_info|postion|球员位置|string|无问西东|
-|custom_info|club|俱乐部名称|string|无问西东|
-|custom_info|tag|球员标签|string|无问西东|
-|url|------|球员链接|string|无问西东|
+|cnname|------|中文名称|string|内马尔|
+|birthday|------|球员名称|string|1992-02-05|
+|pic_url|------|图片地址|string|http://kg.sanjiaoshou.net/footballImg/players/50069499|
+|custom_info|birthday|球员生日|string|1992-02-05|
+|custom_info|number|球员编号|string|10|
+|custom_info|stat|球员状态|string|{\"key\":\"2018世界杯\",\"score\":\"2\",\"assist\":\"1\"}|
+|custom_info|nation|球员国家|string|巴西|
+|custom_info|postion|球员位置|string|前锋|
+|custom_info|club|俱乐部名称|string|无巴黎圣日耳曼|
+|custom_info|tag|球员标签|string|助攻榜第二|
+|url|------|球员链接|string|http://kg.sanjiaoshou.net/football/1/worldcup/html/index.html?uid=50069499&log_id=c4f46fa1-abb8-4382-81a2-cba80b009dc4|
 ####4.UI 效果展示
 
 
