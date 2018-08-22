@@ -26,6 +26,21 @@ ner:##ADMIN##
 >示例二：baidu_poi_list
 
 ```json
+{
+    "id": "d6c5d9917f3c89f131169b92",
+    "gpsType": "GCJ02",
+    "phone": "(0755)86287286",
+    "name": "肯德基(保利餐厅)",
+    "address": "深圳市南山区文心六路保利文化广场F1",
+    "lat": "22.51712327259213",
+    "lng": "113.93720325174111",
+    "subSource": "bdLocalSearch",
+    "thumbnail": "http://api.map.baidu.com/staticimage/v2?ak=ERcMaGj5nOE3EdvHYEEIKBeavMDpEkex&mcode=666666&width=480&height=360&zoom=18&center=113.943755,22.522782&markers=113.943755,22.522782",
+    "relScore": 1,
+    "url": "http://phoneapi.sanjiaoshou.net/nlp/q?key:QKyOG0SrO01xXiVNO2x80LCED-FjiEE8n0ICBZHZzE-fDjNgTdXweeByT99Itmq-Ic-PmHQJtX30jR6mbd4H-_unwoeHH8RRPtrEv_XVkGVbzF3Ut1shf9XRFwnNykeF8TwzKnS_XnlEmC_XBj1sTi7DWuw3NhrMpRcdi3dPI0_VSn-EAv2_mHTSZm0rpwERDplUiTMKP4oAvS9FecZKaTAWyvCgUjmbNe7rNRGB4f4pQQ5BGaFD5NJop7UFDzMMbUtvDCp4gouLmKPm-UNr2g==",
+    "intent": "baidumap://map/geocoder?src=trio&address=肯德基(保利餐厅)",
+    "source": "locBaidu"
+}
 ```
 
 
