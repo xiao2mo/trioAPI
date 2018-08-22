@@ -11,11 +11,11 @@ ner:##FLIGHT_NUM##
 >示例一：flight_list
 ```json
 {
-                            "id": "ZH1883",
-                            "depCity": "北京",
-                            "arrCity": "上海",
-                            "url": "http://phoneapi.sanjiaoshou.net/nlp/q?key:DOrRtuZ2LOF81rDcB4SXeoVD_mvvEn6tJXZ8jdsh4UFBoDr5RgXbj4SDPNKO4zu2kerFyhQClnLjtzRvp-KMgdAtzsnEC-dl-Z9HaA_9F9uj_Qhw6HvTutoFWufiLP9YfZ43L4s8e5QimKiyYQ-BT6Cs96ZBJUCp28tYFwpisjGQGflaLkXf3xcZIXSBLx8Fy0V4W7hswTixPYOKT4r0KTK9C5t1RVFqVDGiWziBDWAT_orKFwbKBg=="
-                        }
+    "id": "ZH1883",
+    "depCity": "北京",
+    "arrCity": "上海",
+    "url": "http://phoneapi.sanjiaoshou.net/nlp/q?key:DOrRtuZ2LOF81rDcB4SXeoVD_mvvEn6tJXZ8jdsh4UFBoDr5RgXbj4SDPNKO4zu2kerFyhQClnLjtzRvp-KMgdAtzsnEC-dl-Z9HaA_9F9uj_Qhw6HvTutoFWufiLP9YfZ43L4s8e5QimKiyYQ-BT6Cs96ZBJUCp28tYFwpisjGQGflaLkXf3xcZIXSBLx8Fy0V4W7hswTixPYOKT4r0KTK9C5t1RVFqVDGiWziBDWAT_orKFwbKBg=="
+}
 ```
 
 >示例二：feiyou_flight_list
