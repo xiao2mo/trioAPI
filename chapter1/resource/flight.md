@@ -56,20 +56,21 @@ ner:##FLIGHT_NUM##
 |名称|说明|类型|示例|
 |:---|:---|:---|:---|
 |flightNo|航班id|string|KN5987|
-|flightCompany|起始城市|string|北京|
-|flightDepcode|目标城市|string|上海|
-|flightArrcode|起始城市|string|北京|
-|flightDepcode|目标城市|string|上海|
-|flightCompany|起始城市|string|北京|
-|flightDepcode|目标城市|string|上海|
-|flightCompany|起始城市|string|北京|
-|flightDepcode|目标城市|string|上海|
-|flightCompany|起始城市|string|北京|
-|flightDepcode|目标城市|string|上海|
-|flightCompany|起始城市|string|北京|
-|flightDepcode|目标城市|string|上海|
-
-
+|flightCompany|承运公司|string|北京|
+|flightDepcode|起始城市代码|string|上海|
+|flightArrcode|目标城市代码|string|北京|
+|FlightHTerminal|起始城市|string|北京|
+|FlightTerminal|目标城市|string|上海|
+|flightDeptimePlanDate|目标城市|string|上海|
+|flightArrtimePlanDate|起始城市|string|北京|
+|flightDep|目标城市|string|上海|
+|flightArr|起始城市|string|北京|
+|flightDepAirport|目标城市|string|上海|
+|flightArrAirport|起始城市|string|北京|
+|ontimeRate|目标城市|string|上海|
+|flightState|起始城市|string|北京|
+|url|目标城市|string|上海|
+|source|起始城市|string|Trio_Feiyou|
 
 
 
