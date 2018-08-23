@@ -45,7 +45,7 @@ ner:##FILM##
 >订票资源卡片展示
 
 <div align="center">
-<img src="/assets/chapter1/film_yaoshen.png" align="center" alt="电影资源卡片实例">
+<img src="/assets/chapter1/yaoshen_film.png" align="center" alt="电影资源卡片实例">
 </div>
 
 
