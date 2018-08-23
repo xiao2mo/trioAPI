@@ -15,14 +15,14 @@
 >请求 json：如下所示
 
 ```json
-{"userId": "trio","city_name":"北京", "longitude":"113.937862","latitude":"22.521726","query": "我想去吃肯德基"}
 {
   "userId": "trio",
   "longitude": 113.937862,
   "latitude": 22.521726,
-  "gpsType": "GCJ02"
-  
-
+  "gpsType": "GCJ02",
+  "timestamp":1535026759,
+  "signature":b893e573bb320bd0ba2f51fe873cb5a897c9ef46,
+  "query":"我想去吃肯德基" 
 }
 ```
 
@@ -32,7 +32,16 @@
 >请求 json：如下所示
 
 ```json
-{"userId": "trio","city_name":"北京", "longitude":"113.937862","latitude":"22.521726","query": "我想去吃肯德基"}
+{
+  "userId": "trio",
+  "longitude": 113.937862,
+  "latitude": 22.521726,
+  "gpsType": "GCJ02",
+  "timestamp":1535026759,
+  "signature":b893e573bb320bd0ba2f51fe873cb5a897c9ef46,
+  "query":"我想去吃肯德基" 
+}
+
 ```
 
 
