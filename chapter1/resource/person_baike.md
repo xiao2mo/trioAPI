@@ -32,7 +32,7 @@ ner:##PERSON_NAME##
 
 
 <div align="center">
-<img src="/assets/chapter1/meituan.png" align="center" alt="电影资源卡片实例">
+<img src="/assets/chapter1/zhoujielun.png" align="center" alt="电影资源卡片实例">
 </div>
 
 
