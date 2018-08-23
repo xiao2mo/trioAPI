@@ -10,7 +10,7 @@
 |longitude|GPS 经度|string|118.484954|y|
 |latitude|GPS 维度|string|40.607182|y
 |gpsType|gps编码类型，目前支持（GCJ02火星坐标系，WPS84，BD09百度地图坐标系）。默认为火星坐标系GCJ02|string|GCJ02|y|
-|fromApp|应用 id|string|11000|y|
+|fromApp|智慧识屏用户操作的app|string|com.baidu.search|y|
 |deviceId|应用 id|string|11000|y|
 |log_id|应用 id|string|11000|y|
 
