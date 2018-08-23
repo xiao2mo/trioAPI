@@ -24,7 +24,8 @@
       "ner": "HOTEL",
       "offset": "0"
     }
-  ]
+  ],
+  "log_id":3589cee8-a2c6-45b2-936e-20fc6e3adc0e
 }
 
 ```
