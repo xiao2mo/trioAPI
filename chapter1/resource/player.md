@@ -54,7 +54,7 @@ ner:##SPORTS_PLAYER##
 >世界杯资源卡片展示（可定制）
 
 <div align="center">
-<img src="/assets/chapter1/shijiebei.png" align="center" alt="电影资源卡片实例">
+<img src="/assets/chapter1/bisai.png" align="center" alt="电影资源卡片实例">
 </div>
 
 
