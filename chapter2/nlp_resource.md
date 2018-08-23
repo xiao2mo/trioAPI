@@ -18,7 +18,13 @@
   "gpsType": "GCJ02",
   "timestamp":1535026759,
   "signature":b893e573bb320bd0ba2f51fe873cb5a897c9ef46,
-  "query":"我想去吃肯德基" 
+  "nluTerms": [
+    {
+      "word": "七天连锁酒店",
+      "ner": "HOTEL",
+      "offset": "0"
+    }
+  ]
 }
 
 ```
