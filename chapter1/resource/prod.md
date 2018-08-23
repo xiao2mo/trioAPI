@@ -38,4 +38,34 @@ ner:##PROD##
 ** ~~删除线部分为暂时缺失的字段~~ **
 
 ####4.UI 效果展示
+>商品资源卡片展示
+
+
+<div align="center">
+<img src="/assets/chapter1/jingdong.png" align="center" alt="电影资源卡片实例">
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
