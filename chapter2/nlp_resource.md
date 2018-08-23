@@ -7,12 +7,11 @@
 |:---|:---|:---|:---|:---|
 |isSlot|是否是槽位|string|-|y|
 |ner|实体名称|string|-|y|
-|offset|是否是槽位|string|-|y|
-|position|是否是槽位|string|-|y|
-|isSlot|是否是槽位|string|-|y|
-|prvSpace|是否是槽位|string|-|y|
+|offset|槽位偏移量|string|-|y|
+|position|实体偏移量|string|-|y|
+|prvSpace|前边是否有空格|string|-|y|
 |trailingWild|是否是槽位|string|-|y|
-|word|是否是槽位|string|-|y|
+|word|实体内容|string|-|y|
 
 
 
