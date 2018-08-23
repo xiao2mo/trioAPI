@@ -12,8 +12,6 @@
 ####2.请求 json 示例
 >请求接口：/nlp/segmentation
 
-
-
 >请求地址：http://phoneapi.sanjiaoshou.net/nlp/segmentation
 
 >请求 json：如下所示
