@@ -9,7 +9,7 @@
 |timestamp|UTC 时间戳|string|1526615661|y|
 |longitude|GPS 经度|string|118.484954|y|
 |latitude|GPS 维度|string|40.607182|y
-|gpsType|gps编码类型，目前支持（GCJ02火星坐标系，WPS84，BD09百度地图坐标系）。默认为火星坐标系GCJ02|string|11000|y|
+|gpsType|gps编码类型，目前支持（GCJ02火星坐标系，WPS84，BD09百度地图坐标系）。默认为火星坐标系GCJ02|string|GCJ02|y|
 |fromApp|应用 id|string|11000|y|
 |deviceId|应用 id|string|11000|y|
 |log_id|应用 id|string|11000|y|
