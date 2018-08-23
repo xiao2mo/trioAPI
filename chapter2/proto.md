@@ -11,8 +11,8 @@
 |latitude|GPS 维度|string|40.607182|y
 |gpsType|gps编码类型，目前支持（GCJ02火星坐标系，WPS84，BD09百度地图坐标系）。默认为火星坐标系GCJ02|string|GCJ02|y|
 |fromApp|智慧识屏用户操作的app|string|com.baidu.search|y|
-|deviceId|设备id，用于标示用户|string|5a836eb568f2177f9c96e6aba4ea3abd|y|
-|log_id|请求id。如果没有，服务器会生成uuid.|string|3589cee8-a2c6-45b2-936e-20fc6e3adc0e|y|
+|deviceId|设备 ID，用于标示用户|string|5a836eb568f2177f9c96e6aba4ea3abd|y|
+|log_id|请求 ID。如果没有，服务器会生成uuid.|string|3589cee8-a2c6-45b2-936e-20fc6e3adc0e|y|
 
 ####2.请求 json 示例
 ```json
@@ -26,7 +26,11 @@
 |query|------|用户检索|string|
 |result_list|------|结果列表|list|
 |result_list|divided_list|分词列表|list|
-|error_msg|------|返回状态信息|string|
+|result_list|domain_list|分词列表|list|
+|result_list|term_list|分词列表|list|
+|log_id|------|请求 id|string|
+
+
 
 ####4.返回 json 示例
 ```json
