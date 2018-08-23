@@ -12,4 +12,7 @@
 |isSlot|是否是槽位|string|-|y|
 |prvSpace|是否是槽位|string|-|y|
 |trailingWild|是否是槽位|string|-|y|
+|word|是否是槽位|string|-|y|
+
+
 
