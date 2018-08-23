@@ -20,3 +20,6 @@
 ```json
 {"userId": "trio","city_name":"北京", "longitude":"113.937862","latitude":"22.521726","query": "肯德基"}
 ```
+####3.返回 json 结构
+
+###4.返回json 示例
