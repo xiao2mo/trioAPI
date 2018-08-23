@@ -12,6 +12,25 @@
 {"userId": "trio","city_name":"北京", "longitude":"113.937862","latitude":"22.521726","query": "我想去吃肯德基"}
 ```
 ####3.返回 json 结构
+|字段名称|子字段|字段含义|字段类型|
+|:---:|:---:|:---:|:---:|
+|error_code|------|返回状态码|int|
+|error_msg|------|返回状态信息|string|
+|query|------|用户检索|string|
+|result_list|（下方 ** 开头的项为其子元素）|结果列表|list|
+|** divided_list|------|分词列表|list|
+|** domain_list|name|领域名称|string|
+|** domain_list|value|领域概率|float|
+|** term_list|token|实体词|string|
+|** term_list|ner|实体类别|string|
+|** term_list|offset|槽位偏移|string|
+|** term_list|ner_prob|实体概率|float|
+|** custom_info_list|------|分词列表|list|
+
+
+|log_id|------|请求 id|string|
+
+
 
 ####4.返回 json 示例
 ```json
