@@ -25,22 +25,31 @@
 |** term_list|ner|实体类别|string|
 |** term_list|offset|槽位偏移|string|
 |** term_list|ner_prob|实体概率|float|
-|** term_list|ner_prob|实体概率|float|
-|** term_list|ner_prob|实体概率|float|
-|** term_list|ner_prob|实体概率|float|
-|** term_list|ner_prob|实体概率|float|
-|** term_list|ner_prob|实体概率|float|
-|** term_list|ner_prob|实体概率|float|
-|** term_list|ner_prob|实体概率|float|
-|** term_list|ner_prob|实体概率|float|
-|** term_list|ner_prob|实体概率|float|
-|** term_list|ner_prob|实体概率|float|
-|** term_list|ner_prob|实体概率|float|
-|** term_list|ner_prob|实体概率|float|
-|** term_list|ner_prob|实体概率|float|
-|** term_list|ner_prob|实体概率|float|
-|** term_list|ner_prob|实体概率|float|
+|** term_list|film_list|实体概率|float|
+|** term_list|custom_player_list|实体概率|float|
+|** term_list|custom_team_list|实体概率|float|
+|** term_list|travel_poi_list|实体概率|float|
+|** term_list|cinemaInfo_list|实体概率|float|
+|** term_list|book_list|实体概率|float|
+|** term_list|cater_list|实体概率|float|
+|** term_list|waimai_list|实体概率|float|
+|** term_list|taokouling_list|实体概率|float|
+|** term_list|feiyou_flight_list|实体概率|float|
+|** term_list|train_list|实体概率|float|
+|** term_list|address_list|实体概率|float|
+|** term_list|person_list|实体概率|float|
+|** term_list|plant_list|实体概率|float|
+|** term_list|animal_list|实体概率|float|
+|** term_list|team_list|实体概率|float|
 
+|** term_list|player_list|实体概率|float|
+|** term_list|meituan_list|实体概率|float|
+|** term_list|stock_list|实体概率|float|
+|** term_list|wangyi_music_list|实体概率|float|
+|** term_list|jd_ware_list|实体概率|float|
+|** term_list|calendar_list|实体概率|float|
+|** term_list|kuaidi_list|实体概率|float|
+|** term_list|baidu_poi_list|实体概率|float|
 |** custom_info_list|------|通用卡片列表|list|
 
 
