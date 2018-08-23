@@ -42,7 +42,7 @@ ner:##PROD##
 
 
 <div align="center">
-<img src="/assets/chapter1/kaluli.png" align="center" alt="电影资源卡片实例">
+<img src="/assets/chapter1/jingdong.png" align="center" alt="电影资源卡片实例">
 </div>
 
 
