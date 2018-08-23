@@ -11,7 +11,6 @@
 
 ####2.请求 json 示例
 ```json
-{"nluTerms":[{"isSlot":false,"ner":"HOTEL","offset":0,"position":0,"prvSpace":false,"trailingWild":false,"word":"七天连锁酒店"}],"userId":"trio","timestamp":"1515391135","longitude":"113.937862","latitude":"22.521726"}
 {
   "userId": "11000",
   "longitude": 113.937862,
