@@ -16,4 +16,4 @@
 |deviceId|设备id，用于标示用户|string|5a836eb568f2177f9c96e6aba4ea3abd|n|
 |log_id|请求id。如果没有，服务器会生成uuid.|string|3589cee8-a2c6-45b2-936e-20fc6e3adc0e|n|
 
-####1.基础请求参数
+####2.基础请求参数
