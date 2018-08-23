@@ -25,11 +25,23 @@
 |** term_list|ner|实体类别|string|
 |** term_list|offset|槽位偏移|string|
 |** term_list|ner_prob|实体概率|float|
+|** term_list|ner_prob|实体概率|float|
+|** term_list|ner_prob|实体概率|float|
+|** term_list|ner_prob|实体概率|float|
+|** term_list|ner_prob|实体概率|float|
+|** term_list|ner_prob|实体概率|float|
+|** term_list|ner_prob|实体概率|float|
+|** term_list|ner_prob|实体概率|float|
+|** term_list|ner_prob|实体概率|float|
+|** term_list|ner_prob|实体概率|float|
+|** term_list|ner_prob|实体概率|float|
+|** term_list|ner_prob|实体概率|float|
+|** term_list|ner_prob|实体概率|float|
+|** term_list|ner_prob|实体概率|float|
+|** term_list|ner_prob|实体概率|float|
+|** term_list|ner_prob|实体概率|float|
+
 |** custom_info_list|------|通用卡片列表|list|
-
-
-|log_id|------|请求 id|string|
-
 
 
 ####4.返回 json 示例
