@@ -41,7 +41,6 @@
 |** term_list|plant_list|实体概率|float|
 |** term_list|animal_list|实体概率|float|
 |** term_list|team_list|实体概率|float|
-
 |** term_list|player_list|实体概率|float|
 |** term_list|meituan_list|实体概率|float|
 |** term_list|stock_list|实体概率|float|
