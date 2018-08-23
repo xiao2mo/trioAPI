@@ -9,6 +9,7 @@
 
 ####2.请求 json 示例
 ```json
+{"userId": "trio","city_name":"北京", "longitude":"113.937862","latitude":"22.521726","query": "我想去吃肯德基"}
 ```
 ####3.返回 json 结构
 
