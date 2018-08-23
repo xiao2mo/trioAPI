@@ -6,10 +6,9 @@
 |:---:|:---:|:---:|:---:|:---:|
 |appId|应用id|string|11000|y|
 |signature|鉴权签名|string|b893e573bb320bd0ba2f51fe873cb5a897c9ef46|y|
-|timestamp|utc 时间戳|string|1526615661|y|
-|appId|应用 id|string|11000|y|
-
-|appId|应用 id|string|11000|y
+|timestamp|UTC 时间戳|string|1526615661|y|
+|longitude|GPS 经度|string|118.484954|y|
+|latitude|GPS 维度|string|40.607182|y
 |appId|应用 id|string|11000|y|
 |appId|应用 id|string|11000|y|
 |appId|应用 id|string|11000|y|
