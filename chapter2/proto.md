@@ -28,9 +28,8 @@
 |divided_list|------|分词列表|list|
 |domain_list|name|领域名称|string|
 |domain_list|value|领域概率|float|
-
-|term_list|token|实体词|list|
-|term_list|ner|实体类别|list|
+|term_list|token|实体词|string|
+|term_list|ner|实体类别|string|
 
 |log_id|------|请求 id|string|
 
