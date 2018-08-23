@@ -26,8 +26,8 @@
 |query|------|用户检索|string|
 |result_list|------|结果列表|list|
 |result_list|divided_list|分词列表|list|
-|result_list|domain_list|分词列表|list|
-|result_list|term_list|分词列表|list|
+|result_list|domain_list|领域列表|list|
+|result_list|term_list|实体列表|list|
 |log_id|------|请求 id|string|
 
 
