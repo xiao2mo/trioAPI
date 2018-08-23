@@ -15,7 +15,7 @@
 
 ####2.请求 json 示例
 
->请求接口：resource
+>请求接口：/nlp/resource
 
 >请求地址：http://phoneapi.sanjiaoshou.net/nlp/resource
 
