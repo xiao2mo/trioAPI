@@ -10,9 +10,22 @@
 
 
 ####2.请求 json 示例
+>请求接口：segmentation
+>请求地址：http://phoneapi.sanjiaoshou.net/nlp/segmentation
+>请求 json：
 ```json
 {"userId": "trio","city_name":"北京", "longitude":"113.937862","latitude":"22.521726","query": "我想去吃肯德基"}
 ```
+
+-----------------------------
+>请求接口：nlp
+>请求地址：http://phoneapi.sanjiaoshou.net/nlp
+>请求 json：
+```json
+{"userId": "trio","city_name":"北京", "longitude":"113.937862","latitude":"22.521726","query": "我想去吃肯德基"}
+```
+
+
 ####3.返回 json 结构
 >下表中各类资源卡片的具体信息，可参照智慧识屏部分各类卡片的请求、结构和展现。
 
