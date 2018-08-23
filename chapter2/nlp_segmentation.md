@@ -12,7 +12,7 @@
 ####2.请求 json 示例
 >请求接口：segmentation
 >请求地址：http://phoneapi.sanjiaoshou.net/nlp/segmentation
->请求 json：如下
+>请求 json：如下所示
 ```json
 {"userId": "trio","city_name":"北京", "longitude":"113.937862","latitude":"22.521726","query": "我想去吃肯德基"}
 ```
@@ -20,7 +20,7 @@
 -----------------------------
 >请求接口：nlp
 >请求地址：http://phoneapi.sanjiaoshou.net/nlp
->请求 json：如下
+>请求 json：如下所示
 ```json
 {"userId": "trio","city_name":"北京", "longitude":"113.937862","latitude":"22.521726","query": "我想去吃肯德基"}
 ```
