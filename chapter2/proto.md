@@ -24,7 +24,7 @@
 |error_code|------|返回状态码|int|
 |error_msg|------|返回状态信息|string|
 |query|------|用户检索|string|
-|result_list|（下方**开头的项为其子元素）|结果列表|list|
+|result_list|（下方 ** 开头的项为其子元素）|结果列表|list|
 |**divided_list|------|分词列表|list|
 |** domain_list|name|领域名称|string|
 |** domain_list|value|领域概率|float|
