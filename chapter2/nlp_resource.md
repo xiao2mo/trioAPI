@@ -19,6 +19,44 @@
 ```
 
 ####3.返回 json 结构
+>下表中各类资源卡片的具体信息，可参照智慧识屏部分各类卡片的请求、结构和展现。
+
+|字段名称|子字段|字段含义|字段类型|
+|:---:|:---:|:---:|:---:|
+|error_code|------|返回状态码|int|
+|error_msg|------|返回状态信息|string|
+|query|------|用户检索|string|
+|result_list|（下方 ** 开头的项为其子元素）|结果列表|list|
+|** divided_list|------|分词列表|list|
+|** domain_list|name|领域名称|string|
+|** domain_list|value|领域概率|float|
+|** term_list|token|实体词|string|
+|** term_list|ner|实体类别|string|
+|** term_list|offset|槽位偏移|string|
+|** term_list|ner_prob|实体概率|float|
+|** term_list|film_list|电影资源|float|
+|** term_list|custom_player_list|球员资源|float|
+|** term_list|custom_team_list|球队资源|float|
+|** term_list|travel_poi_list|景点资源|float|
+|** term_list|cinemaInfo_list|影院资源|float|
+|** term_list|book_list|图书资源|float|
+|** term_list|cater_list|餐馆资源|float|
+|** term_list|waimai_list|外卖资源|float|
+|** term_list|taokouling_list|淘口令资源|float|
+|** term_list|feiyou_flight_list|飞机票资源|float|
+|** term_list|train_list|火车资源|float|
+|** term_list|address_list|地址资源|float|
+|** term_list|person_list|人物资源|float|
+|** term_list|plant_list|植物资源|float|
+|** term_list|animal_list|动物资源|float|
+|** term_list|meituan_list|美团资源|float|
+|** term_list|stock_list|股票资源|float|
+|** term_list|wangyi_music_list|音乐资源|float|
+|** term_list|jd_ware_list|商品资源|float|
+|** term_list|calendar_list|日程资源|float|
+|** term_list|kuaidi_list|快递资源|float|
+|** term_list|baidu_poi_list|地图资源|float|
+|** custom_info_list|------|通用卡片资源|list|
 
 ####4.返回 json 示例
 ```json
