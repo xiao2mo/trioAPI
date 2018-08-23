@@ -4,7 +4,7 @@
 
 |参数名|参数含义|类型|示例|是否必须|
 |:---|:---|:---|:---|:---|
-|appId|应用id|string|11000|y|
+|appId|应用 ID|string|11000|y|
 |signature|鉴权签名|string|b893e573bb320bd0ba2f51fe873cb5a897c9ef46|y|
 |timestamp|UTC 时间戳|string|1526615661|y|
 |longitude|GPS 经度|string|118.484954|y|
