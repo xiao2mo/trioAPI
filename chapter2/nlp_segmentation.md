@@ -16,21 +16,11 @@
 ```json
 {"userId": "trio","city_name":"北京", "longitude":"113.937862","latitude":"22.521726","query": "我想去吃肯德基"}
 {
-  "userId": "10002",
+  "userId": "trio",
   "longitude": 113.937862,
   "latitude": 22.521726,
-  "nluTerms": [
-    {
-      "word": "内马尔",
-      "ner": "PERSON_NAME",
-      "offset": "0"
-    },
-    {
-    	"word":"阿根廷",
-    	"ner":"TEAM",
-    	"offset":"1"
-    }
-  ]
+  
+
 }
 ```
 
