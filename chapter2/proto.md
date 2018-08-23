@@ -4,8 +4,15 @@
 
 |参数名|参数含义|类型|示例|是否必须|
 |:---:|:---:|:---:|:---:|:---:|
-|query|用户检索语句|string|"我想去吃肯德基"|y|
+|appId|应用id|string|11000|y|
+|signature|鉴权签名|string|b893e573bb320bd0ba2f51fe873cb5a897c9ef46|y|
+|timestamp|utc 时间戳|string|1526615661|y|
+|appId|应用 id|string|11000|y|
 
+|appId|应用 id|string|11000|y
+|appId|应用 id|string|11000|y|
+|appId|应用 id|string|11000|y|
+|appId|应用 id|string|11000|y|
 
 ####2.请求 json 示例
 ```json
