@@ -29,7 +29,7 @@
 |domain_list|name|领域名称|string|
 |domain_list|value|领域概率|float|
 
-|term_list|token|实体名称|list|
+|term_list|token|实体词|list|
 |term_list|ner|实体类别|list|
 
 |log_id|------|请求 id|string|
