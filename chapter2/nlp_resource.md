@@ -6,7 +6,7 @@
 |参数名|参数含义|类型|示例|是否必须|
 |:---|:---|:---|:---|:---|
 |isSlot|是否是槽位|string|-|y|
-|ner|是否是槽位|string|-|y|
+|ner|实体名称|string|-|y|
 |offset|是否是槽位|string|-|y|
 |position|是否是槽位|string|-|y|
 |isSlot|是否是槽位|string|-|y|
