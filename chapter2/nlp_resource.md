@@ -5,17 +5,33 @@
 
 |参数名|参数含义|类型|示例|是否必须|
 |:---|:---|:---|:---|:---|
-|isSlot|是否是槽位|bool|-|y|
 |ner|实体名称|string|-|y|
-|offset|槽位偏移量|int|-|y|
-|position|实体偏移量|int|-|y|
-|prvSpace|前边是否有空格|string|-|y|
-|trailingWild|是否是槽位|bool|-|y|
 |word|实体内容|string|-|y|
+|log_id|请求 ID|string|-|y|
+
+
+
+
 
 ####2.请求 json 示例
 ```json
-{"nluTerms":[{"isSlot":false,"ner":"HOTEL","offset":0,"position":0,"prvSpace":false,"trailingWild":false,"word":"七天连锁酒店"}],"userId":"trio","timestamp":"1515391135","longitude":"113.937862","latitude":"22.521726"}
+{
+  "userId": "11000",
+  "longitude": 113.937862,
+  "latitude": 22.521726,
+  "gpsType": "GCJ02",
+  "timestamp":1535026759,
+  "signature":b893e573bb320bd0ba2f51fe873cb5a897c9ef46,
+  "nluTerms": [
+    {
+      "word": "七天连锁酒店",
+      "ner": "HOTEL",
+      "offset": "0"
+    }
+  ],
+  "log_id":3589cee8-a2c6-45b2-936e-20fc6e3adc0e
+}
+
 ```
 
 ####3.返回 json 结构
@@ -26,37 +42,37 @@
 |error_code|------|返回状态码|int|
 |error_msg|------|返回状态信息|string|
 |query|------|用户检索|string|
-|result_list|（下方 ** 开头的项为其子元素）|结果列表|list|
-|** divided_list|------|分词列表|list|
-|** domain_list|name|领域名称|string|
-|** domain_list|value|领域概率|float|
-|** term_list|token|实体词|string|
-|** term_list|ner|实体类别|string|
-|** term_list|offset|槽位偏移|string|
-|** term_list|ner_prob|实体概率|float|
-|** term_list|film_list|电影资源|float|
-|** term_list|custom_player_list|球员资源|float|
-|** term_list|custom_team_list|球队资源|float|
-|** term_list|travel_poi_list|景点资源|float|
-|** term_list|cinemaInfo_list|影院资源|float|
-|** term_list|book_list|图书资源|float|
-|** term_list|cater_list|餐馆资源|float|
-|** term_list|waimai_list|外卖资源|float|
-|** term_list|taokouling_list|淘口令资源|float|
-|** term_list|feiyou_flight_list|飞机票资源|float|
-|** term_list|train_list|火车资源|float|
-|** term_list|address_list|地址资源|float|
-|** term_list|person_list|人物资源|float|
-|** term_list|plant_list|植物资源|float|
-|** term_list|animal_list|动物资源|float|
-|** term_list|meituan_list|美团资源|float|
-|** term_list|stock_list|股票资源|float|
-|** term_list|wangyi_music_list|音乐资源|float|
-|** term_list|jd_ware_list|商品资源|float|
-|** term_list|calendar_list|日程资源|float|
-|** term_list|kuaidi_list|快递资源|float|
-|** term_list|baidu_poi_list|地图资源|float|
-|** custom_info_list|------|通用卡片资源|list|
+|result_list|（下方 @ 开头的项为其子元素）|结果列表|list|
+|@ divided_list|------|分词列表|list|
+|@ domain_list|name|领域名称|string|
+|@ domain_list|value|领域概率|float|
+|@ term_list|token|实体词|string|
+|@ term_list|ner|实体类别|string|
+|@ term_list|offset|槽位偏移|string|
+|@ term_list|ner_prob|实体概率|float|
+|@ term_list|film_list|电影资源|float|
+|@ term_list|custom_player_list|球员资源|float|
+|@ term_list|custom_team_list|球队资源|float|
+|@ term_list|travel_poi_list|景点资源|float|
+|@ term_list|cinemaInfo_list|影院资源|float|
+|@ term_list|book_list|图书资源|float|
+|@ term_list|cater_list|餐馆资源|float|
+|@ term_list|waimai_list|外卖资源|float|
+|@ term_list|taokouling_list|淘口令资源|float|
+|@ term_list|feiyou_flight_list|飞机票资源|float|
+|@ term_list|train_list|火车资源|float|
+|@ term_list|address_list|地址资源|float|
+|@ term_list|person_list|人物资源|float|
+|@ term_list|plant_list|植物资源|float|
+|@ term_list|animal_list|动物资源|float|
+|@ term_list|meituan_list|美团资源|float|
+|@ term_list|stock_list|股票资源|float|
+|@ term_list|wangyi_music_list|音乐资源|float|
+|@ term_list|jd_ware_list|商品资源|float|
+|@ term_list|calendar_list|日程资源|float|
+|@ term_list|kuaidi_list|快递资源|float|
+|@ term_list|baidu_poi_list|地图资源|float|
+|@ custom_info_list|------|通用卡片资源|list|
 
 ####4.返回 json 示例
 ```json
