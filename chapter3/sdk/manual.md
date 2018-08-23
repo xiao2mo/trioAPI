@@ -105,7 +105,7 @@ ADDR : 惠新西街甲7号住总地产大厦
 SDK接入步骤：
 #####引入AAR
 在Android app工程下新建libs文件夹，将我们提供的nnpredictmodule-release.aar放在libs文件夹下。
-![](/doc/assets/sdk/1.png)
+![](/assets/sdk/1.png)
 在app下的gradle文件中添加repositories段，指明aar所在的文件夹。
 ![](/doc/assets/sdk/2.png)
 
