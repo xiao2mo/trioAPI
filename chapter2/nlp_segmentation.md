@@ -38,6 +38,26 @@
 
 >请求接口：segmentation
 >返回字段：如下表
+|字段名称|子字段|字段含义|字段类型|
+|:---:|:---:|:---:|:---:|
+|error_code|------|返回状态码|int|
+|error_msg|------|返回状态信息|string|
+|query|------|用户检索|string|
+|result_list|（下方 ** 开头的项为其子元素）|结果列表|list|
+|**divided_list|------|分词列表|list|
+|** domain_list|name|领域名称|string|
+|** domain_list|value|领域概率|float|
+|** term_list|token|实体词|string|
+|** term_list|ner|实体类别|string|
+|log_id|------|请求 id|string|
+
+
+
+
+--------------------------------------------------
+
+>请求接口：nlp
+>返回字段：如下表
 
 |字段名称|子字段|字段含义|字段类型|
 |:---:|:---:|:---:|:---:|
@@ -75,11 +95,6 @@
 |** term_list|kuaidi_list|快递资源|float|
 |** term_list|baidu_poi_list|地图资源|float|
 |** custom_info_list|------|通用卡片资源|list|
---------------------------------------------------
-
->请求接口：nlp
->返回字段：如下表
-
 
 
 ####4.返回 json 示例
