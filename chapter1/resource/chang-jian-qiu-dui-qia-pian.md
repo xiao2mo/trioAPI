@@ -1,4 +1,4 @@
->#常见球队卡片
+s>#常见球队卡片
 
 
 ####1.测试 Demo
@@ -39,13 +39,13 @@ ner:##SPORTS_TEAM##
 >球队资源卡片展示
 
 <div align="center">
-<img src="/assets/chapter1/qiudui.png" align="center" alt="电影资源卡片实例">
+<img src="/assets/chapter1/agenting.png" align="center" alt="电影资源卡片实例">
 </div>
 
 >世界杯资源卡片展示（可定制）
 
 <div align="center">
-<img src="/assets/chapter1/shijiebei.png" align="center" alt="电影资源卡片实例">
+<img src="/assets/chapter1/bisai.png" align="center" alt="电影资源卡片实例">
 </div>
 
 
