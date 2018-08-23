@@ -25,12 +25,11 @@
 |error_msg|------|返回状态信息|string|
 |query|------|用户检索|string|
 |result_list|（下方*开头的项为其子元素）|结果列表|list|
-|divided_list|------|分词列表|list|
-|domain_list|name|领域名称|string|
-|domain_list|value|领域概率|float|
-|term_list|token|实体词|string|
-|term_list|ner|实体类别|string|
-
+|**divided_list|------|分词列表|list|
+|** domain_list|name|领域名称|string|
+|** domain_list|value|领域概率|float|
+|** term_list|token|实体词|string|
+|** term_list|ner|实体类别|string|
 |log_id|------|请求 id|string|
 
 
