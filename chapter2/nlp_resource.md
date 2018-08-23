@@ -7,6 +7,10 @@
 |:---|:---|:---|:---|:---|
 |ner|实体名称|string|-|y|
 |word|实体内容|string|-|y|
+|log_id|请求 ID|string|-|y|
+
+
+
 
 
 ####2.请求 json 示例
