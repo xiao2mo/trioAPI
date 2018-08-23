@@ -20,6 +20,7 @@
   "userId": "trio",
   "longitude": 113.937862,
   "latitude": 22.521726,
+  "gpsType": "GCJ02"
   
 
 }
