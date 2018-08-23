@@ -17,3 +17,6 @@
 |log_id|请求id。如果没有，服务器会生成uuid.|string|3589cee8-a2c6-45b2-936e-20fc6e3adc0e|n|
 
 ####2.请求 json 示例
+```json
+{"userId": "trio","city_name":"北京", "longitude":"113.937862","latitude":"22.521726","query": "肯德基"}
+```
