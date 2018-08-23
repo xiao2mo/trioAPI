@@ -25,7 +25,7 @@
 |error_msg|------|返回状态信息|string|
 |query|------|用户检索|string|
 |result_list|------|结果列表|list|
-|result_list|divided_list|返回状态信息|string|
+|result_list|divided_list|分词列表|string|
 |error_msg|------|返回状态信息|string|
 
 ####4.返回 json 示例
