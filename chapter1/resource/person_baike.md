@@ -28,7 +28,7 @@ ner:##PERSON_NAME##
 |source|来源标识|string|Hudong|
 
 ####4.UI 效果展示
->任务百科卡片展示
+>人物百科卡片展示
 
 
 <div align="center">
