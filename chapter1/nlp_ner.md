@@ -38,6 +38,8 @@
 | PROD| 产品相关|PROD_RAND| 产品品牌|
 | SPORTS| 体育相关|TEAM| 球队|
 | SPORTS| 体育相关|PLAYER| 球员|
+| ENTITY| 百科实体|PLANT| 植物|
+| ENTITY| 百科实体|ANIMAL| 动物|
 | SPECIAL| 特殊实体|EXPR_NAME| 表情符号|
 | OTHER| 非实体|OTHER_OTHER| 特殊实体|
 
